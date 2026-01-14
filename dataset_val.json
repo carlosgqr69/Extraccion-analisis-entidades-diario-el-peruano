@@ -1,0 +1,752 @@
+[
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nJUNTA GENERAL DE ACCIONISTAS DE FECHA 11 DE SEPTIEMBRE DEL 2025, SE ACORDÓ POR UNANIMIDAD SILVATEAM ICA S.A.C. EDICTO RECTIFICACIÓN DE PARTIDA DE BAUTISMO (1901) LA DISOLUCIÓN Y LIQUIDACIÓN DE LA EMPRESA FAST El Directorio LOGISTICS SBC S.A.C., CON RUC NRO. 20604881651, SILVATEAM AGRICOLA S.A.C. R 20 E 12 C -2 T 0 I 2 F 5 I -A C M A -O C R IÓ MI N R . C D A E R ME P N A D R O T R I I D LA A : A RA E U X J P O . J 0 A 73 C 6 IN 49 T 6 O 9 , A s B o E li L c A ita R D la O r e L c U ti Y fic O a H ci I ó D n A d L e G O la , P c A on R T D I . D N A .I . D N E ° D BR ES ID IG HY N T Á T N D C O\n\nPregunta: ¿Qué empresa convoca a junta?",
+    "input": "",
+    "output": "La empresa es LA EMPRESA."
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nDISOLUCIÓN Y LIQUIDACIÓN Ante la Sub Dirección de Investigación y Depuración DSR/ORCALLAO, solicita la Rectificación Administrativa BARTOLO, PROVINCIA Y DEPARTAMENTO DE LIMA, el cual S3 CONSTRUCTORA S.A.C. con RUC N° Registral de la Dirección de Registros de Identificación d N e A N su C Y ac S ta H d A e P I n A a M ci A m i J e A n Q to U N E º , 1 e 0 n 1 e 2 l 0 s 6 e 7 n 3 ti 6 d 3 o p q e u r e t e s n e e c c o ie n n si t g e n a ó c S o U rr N e A R in P s c - r it z o o n e a n R l e a g i p s a tr r a ti l d N a o e I l X ec S tr E ón D ic E a LI N M ° A . P N 03 o 3 ti 4 fi 2 cá 7\n\nPregunta: ¿Qué tipo de documento legal es este?",
+    "input": "",
+    "output": "Este es un aviso de disolución y liquidación de sociedad."
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de remate judicial. Identifica: ubicación, valor base y fecha.",
+    "input": "subastado más I.G.V. 4. CONSIDERACIONES: El postor realizará su oferta mediante carta (hoja de postura) que será entregada 11. FORMA DE PAGO: Efectivo o cheque certificado o de gerencia a la orden de SUNAT/BANCO DE LA en sobre cerrado. En el exterior del sobre se consignará como datos referenciales: el bien ofertado, nombre, NACIÓN, en Soles (S/). denominación o razón social del postor con indicación de su número de RUC o en su defecto del número de documento de identidad que corresponda. c 1 o 2 r . r G es R p A o V nd Á e M r, E s N e E d S e : j e L s o i s n e q f u e e c to s e t o i d n",
+    "output": "Información extraída del aviso de remate:\n\nTipo de documento: Remate Judicial\nUbicación del inmueble: nan\nValor base: nan\nFecha de remate: 2025-06-20\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso legal de disolución publicado en el Diario El Peruano. Identifica: tipo de documento, empresa, RUC y fecha.",
+    "input": "DISOLUCIÓN Y ZEVALLOS VILLAPOLO”. en el Artículo 74° del D.S. N° 015-98-PCM. TRAZA SOCIEDAD ANONIMA CERRADA S de e l e D f . e S c . t ú N a .° l a 0 1 p 5 u - b 9 l 8 ic - a P c C ió M n . prevista en el Artículo 73° Lima, 08 H / E 07 C / T 2 O 02 R 5 GABRIEL ARANDA NUÑEZ B A a C la T n I c V e O Fina E l N d e L l I i Q q U ui I d D a A c C ió IO n N Al 03-07-2025 Por Acta de L La IQ J U un ID ta A G C e I n Ó e N ra l De Socios Callao, 30 de mayo del 2025. Supervisor de Análisis Técnico Registral Activo Fijo Neto S/. 00.00 del 14 de julio de 2025, se acordó la ERNIT ELIZABETH VALENCIA RODRI",
+    "output": "Información extraída del aviso de disolución:\n\nTipo de documento: Disolución y Liquidación\nEmpresa: nan\nRUC: No especificado\nFecha de publicación: 2025-07-17\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nDISOLUCIÓN Y LIQUIDACIÓN A través del Expediente N° 001408-2025/DSR/ Ante la Vicaría Judicial del Arzobispado de Huancayo, don Se comunica que, mediante acuerdo de Junta Universal de De conformidad con el Art. 412 de la Ley General de Sociedades, ORG10LIM/ORJM/RENIEC de la OR-JESUS OLGA EUFRASIA PERALES PORRAS, identificada con DNI Accionistas de GEOCEAN PERÚ S.A.C., de fecha 6 de mayo de por\n\nPregunta: ¿En qué fecha se publicó la disolución?",
+    "input": "",
+    "output": "La fecha es 2025-05-12."
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de convocatoria a junta de accionistas. Identifica: empresa, RUC y fecha.",
+    "input": "JUNTA GENERAL. 002-2392223-1 081-2392320-1 1-8902932-200 BOTICA RISSO S.A. – EN LIQUIDACION RUC 20100868769 Balance Final de Liquidación Al 31 de Marzo de 2025 Total Activo S/. 0.00 Total Pasivo S/. 0.00 Total Pasivo y Patrimonio S/. 0.00 María Luz Oscategui Arteta Liquidador – DNI 07856744 Deyner Quezada Iparraguirre 002-2392101-1 CPC N° 50892 16 BOLETÍN OFICIAL EL PERUANO I Lima, miércoles 23 de abril de 2025 AVISO DE REDUCCIÓN DE CAPITAL ASOCIACIÓN DE GRÁFICOS COMERCIANTES DEL CENTRO COMERCIAL CENTROLIMA (AGRACCCCEL) De conformidad con lo previsto en el artículo 217 de la Ley General de Soc",
+    "output": "Información extraída del aviso de junta:\n\nTipo de documento: Convocatoria a Junta General de Accionistas\nEmpresa: nan\nRUC: No especificado\nFecha de junta: 2025-04-23\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nDisolución y Alvarado Figueroa con DNI N° 43415315, como GONZALEZ AGUILAR, por haberse consignado erróneamente EMPRESA «Q&G TRADING E.I.R.L.», con RUC Nº Liquidación de la Sociedad R & L NETWORK S.A.C., con miembros. el nombre del difunto siendo lo correcto: FRANCISCO DONATO 20518164474, Urb. Confecciones Mz. «D», Lote L, RUC Nº 20550200270, designando como Liquidador al señor Arequipa, 12 de Junio 2025. GONZALES AGUILAR. Dpto. 410, Bellavista - Callao, habiéndose designado Alfredo Laifith Cruz Torres identificado con DNI Nº 01162386. 002-2409174-1 COMITÉ LIQUIDADOR Se efectúa la publicación p\n\nPregunta: ¿En qué fecha se publicó la disolución?",
+    "input": "",
+    "output": "La fecha es 2025-06-16."
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Junta de BARBOSA, fecha 2025-06-20",
+    "output": "CONVOCATORIA A JUNTA GENERAL DE ACCIONISTAS\n\nSe convoca a los señores accionistas de:\n\nEmpresa: BARBOSA\nRUC: nan\nFecha de junta: 2025-06-20\n\nPublicado conforme al artículo 43 de la Ley General de Sociedades.\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nremate. DE PROPIEDAD INMUEBLE DE LA ZONA REGISTRAL N° XII – SEDE AREQUIPA - OFICINA REGISTRAL EXHIBICIÓN: DE AREQUIPA, CON LOS SIGUIENTES GRAVÁMENES Y CARGAS: 1)HIPOTECA A FAVOR DE SUNAT HASTA POR LA SUMA DE S/ 658,936.60 DEL 21/02/2022; 2) HIPOTECA A FAVOR DE SUNAT HASTA Bienes Inmuebles: Su exhibición al público en general por los exteriores de este es permanente en el lugar POR LA SUMA DE S/ 731,550.40 DEL 11/04/2023; 3) EMBARGO EN FORMA DE INSCRIPCIÓN de su ubicación. (FUERA DEL PROCESO) EXPEDIENTE NRO. 05164-2023-68-0401-JR-CI-09 HASTA POR LA SUMA GRAVÁMENES Y OTROS: Gravámenes los que se\n\nPregunta: ¿Dónde está ubicado el inmueble?",
+    "input": "",
+    "output": "El inmueble está ubicado en nan."
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Remate ubicación nan, base nan, fecha 2025-06-20",
+    "output": "AVISO DE REMATE JUDICIAL\n\nPor disposición judicial, se convoca a remate público:\n\nBien inmueble ubicado en: nan\nValor base: nan\nFecha de remate: 2025-06-20\n\nPublicado en el Diario Oficial El Peruano.\n"
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Remate ubicación nan, base nan, fecha 2025-07-09",
+    "output": "AVISO DE REMATE JUDICIAL\n\nPor disposición judicial, se convoca a remate público:\n\nBien inmueble ubicado en: nan\nValor base: nan\nFecha de remate: 2025-07-09\n\nPublicado en el Diario Oficial El Peruano.\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso legal de disolución publicado en el Diario El Peruano. Identifica: tipo de documento, empresa, RUC y fecha.",
+    "input": "DISOLUCION Y LIQUIDACION EDICTO BY CAPILAR ADVANCED S.A.C. En",
+    "output": "Información extraída del aviso de disolución:\n\nTipo de documento: Disolución y Liquidación\nEmpresa: DISOLUCION Y LIQUIDACION EDICTO BY CAPILAR ADVANCED S.A.C.\nRUC: No especificado\nFecha de publicación: 2025-10-30\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nSubasta publicación prevista en el Art. 73 del D.S 015-98-PCM. Se efectúa la presente publicación de conformidad con el Venta de Bases. 11 de septiembre 2025 (08.00 a Lima, 28 DE AGOSTO DEL 2025. artículo 73° del Decreto Supremo 015-98-PCM. 09.00 am) San Borja, 07 de agosto de 2025 Lugar de Acto Público: 1er Piso del Auditorio Firmado Digitalmente (documento firmado digitalmente) Biblioteca Municipal, sito en la Calle Las Dalias con SUJEY MARISOL DIAZ TAFUR MARILIN MAUREEN CORDOVA FABIAN De conformidad con los artículos 113° y 116° de Calle Las Magnolias distrito de Chaclacayo Jefe de Oficina\n\nPregunta: ¿Qué tipo de aviso es este?",
+    "input": "",
+    "output": "Este es un aviso de remate judicial."
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nJunta General de Socios empresa Exa Solution Mining E.I.R.L. en Liquidación foja 306 del Archivo Parroquial Del Sagrario, en la que sus de INDUMET Y REPRESENTACIONES FAYVEN S.R.L. para que presenten los documentos justificativos de sus en el sentido que se ha consignado erróneamente el primer créditos dentro del plazo de treinta (30) días, contados a nombres no aparecen tildados, y su padre aparece como prenombre del padre y declarante de la titular del acta, debe celebrada con fecha 25 de Agosto de 2025, se acordó la partir de la última publicación, bajo apercibimiento de no ‘Santiago Viscarr\n\nPregunta: ¿Qué empresa convoca a junta?",
+    "input": "",
+    "output": "La empresa es nan."
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de remate judicial. Identifica: ubicación, valor base y fecha.",
+    "input": "Remate N° 8: 9:35 AM a Cargo de Ejecutor 71,107.39 Soles de fecha 13/01/2016 - EXP N°0183424-2010-27550-24JT(D00020), aclarado en el asiento Coactivo Fabiola Vanessa Salazar Cardozo y Auxiliar Coactivo Cinthya Melina Cornejo Alegre; PRIMERA D00024; 14.- Embargo del SAT de Lima por S/ 18,590.60 soles de fecha 11/02/2016 - EXP N° 28407400944242- Convocatoria; Exp: 28407405266204-ACUM; Obligado: CONSORCIO MAYORISTA SOCIEDAD ANONIMA; ACUM (D00021); 15.- Embargo del SAT de Lima por S/ 12,744.13 soles de fecha 13/05/2016 - EXP N° Ubicación: AV. COLONIAL Y JR PACASMAYO N° 398-581, CERCADO; Área de Te",
+    "output": "Información extraída del aviso de remate:\n\nTipo de documento: Remate Judicial\nUbicación del inmueble: AV. COLONIAL Y JR PACASMAYO N° 398-581, CERCADO; Área de Terreno: 1,371.00 M2; Partida: 28407401065055-ACUM (D00023); 16- Embargo del SAT de Lima por S/ 139,989.72 soles de fecha 40197087; Tasación: S/ 5,309,741.18; Precio Base: S/ 3,539,827.45; Oblaje: S/ 530,974.12; Gravámenes:1.- 26/08/2016 - EXP N° 28407401230999-ACUM (D00025); 17.- Embargo del 12° Juzgado Transitorio de Trabajo Embargo hasta por la suma de 500’000,00 soles oro de fecha 05/06/1984, di\nValor base: 3539827.45\nFecha de remate: 2025-09-19\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nREMATE del bien inmueble • Aldo Panesi Moreno, con registro profesional N.º 130 ubicado en MZ A SUB LOTE 1K CENTRO POBLADO SAN JOSE DE PINILLA EN EL DISTRITO DE Exhibición: OCUCAJE, PROVINCIA Y DEPARTAMENTO DE ICA, cuyo dominio corre inscrito en la Partida Electrónica Bienes Muebles: Los bienes se exhibirán los días 02, 03 y 04 de setiembre de 2025, de 8:30 a 13:30 horas y N.º P07128778 del Registro de Propiedad Inmueble de la Zona Registral N.º XI - Sede Ica, Oficina Registral de 14:30 a 16:30 horas en: Ica, con el siguiente gravamen: Embargo a favor de SUNAT hasta por S/ 51 282.00, inscrito\n\nPregunta: ¿Qué tipo de aviso es este?",
+    "input": "",
+    "output": "Este es un aviso de remate judicial."
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de remate judicial. Identifica: ubicación, valor base y fecha.",
+    "input": "remate en caso 11:46 horas - CHUNG & TONG INGENIEROS S.A.C. EN LIQUIDACION - RUC: 20503563704; Ejecutor representen a otra persona (natural o jurídica); para el registro (obligatorio), asignación de número de Coactivo: Juan Carlos Auccapuro Cueva; Auxiliar Coactivo: Renzo Wilfredo Castillo Roque, Expediente postor y ubicación. Aquel postor que se ubique en lugar distinto al asignado o que cause desorden o no Coactivo N° 0290062174920 y Acumulados; se procederá al SEGUNDO",
+    "output": "Información extraída del aviso de remate:\n\nTipo de documento: Remate Judicial\nUbicación del inmueble: nan\nValor base: nan\nFecha de remate: 2025-04-15\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de remate judicial. Identifica: ubicación, valor base y fecha.",
+    "input": "REMATE del INMUEBLE ubicado en PARCELA 158 UBIC. Roque, Expediente Coactivo N° 0210060397284 y Acumulados; se procederá al PRIMER",
+    "output": "Información extraída del aviso de remate:\n\nTipo de documento: Remate Judicial\nUbicación del inmueble: nan\nValor base: nan\nFecha de remate: 2025-10-24\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso legal de disolución publicado en el Diario El Peruano. Identifica: tipo de documento, empresa, RUC y fecha.",
+    "input": "Disolución y Liquidación de “JUCAR IMPORT Superior Tecnológico Público “SAN PEDRO DEL a KELVIN OSCAR VENTO CRUZ, con DNI N° de la sociedad “MAESTRANZA DEL PACÍFICO S.A.C.” con RUC 20606652420, designándose VALLE DE MALA” - MALA - CAÑETE – LIMA, por 74049710. SOCIEDAD DE RESPONSABILIDAD LIMITADA - como Liquidador a la Señorita Guissela Pierina lo cual solicito un duplicado de mi título profesional MADELP S.R.L.”, nombrándose como liquidador al Aragon Larota, DNI N° 45744073. Lima, 28 de mayo de 2025. para los fines pertinentes y necesarios. Sr. Moisés Chirre Loza con DNI 09809001. KELVIN OSCAR",
+    "output": "Información extraída del aviso de disolución:\n\nTipo de documento: Disolución y Liquidación\nEmpresa: DE RESPONSA\nRUC: 20606652420.0\nFecha de publicación: 2025-06-04\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso legal de disolución publicado en el Diario El Peruano. Identifica: tipo de documento, empresa, RUC y fecha.",
+    "input": "disolucion.pe indicando en el asunto del correo, su nombre completo y número de DNI. Lima, octubre de 2025. LA ADMINISTRACIÓN TEMPORAL DE LA COOPAC LÍDERES EMPRENDEDORES EN",
+    "output": "Información extraída del aviso de disolución:\n\nTipo de documento: Disolución y Liquidación\nEmpresa: nan\nRUC: No especificado\nFecha de publicación: 2025-10-10\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Junta de nan, fecha 2025-08-30",
+    "output": "CONVOCATORIA A JUNTA GENERAL DE ACCIONISTAS\n\nSe convoca a los señores accionistas de:\n\nEmpresa: nan\nRUC: nan\nFecha de junta: 2025-08-30\n\nPublicado conforme al artículo 43 de la Ley General de Sociedades.\n"
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Junta de nan, fecha 2025-07-25",
+    "output": "CONVOCATORIA A JUNTA GENERAL DE ACCIONISTAS\n\nSe convoca a los señores accionistas de:\n\nEmpresa: nan\nRUC: nan\nFecha de junta: 2025-07-25\n\nPublicado conforme al artículo 43 de la Ley General de Sociedades.\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de remate judicial. Identifica: ubicación, valor base y fecha.",
+    "input": "REMATE PÚBLICO EXPEDIENTE 28-2025 PROCESO DE SELECCIÓN 001-2025-LEY N° 29230/UNC En los seguidos por PATRIMONIO EN FIDEICOMISO RTC – DECRETO LEGISLATIVO N° 861, NO Presente.- INSCRITO EN LA SMV, DIRIGIDO A INVERSIONISTAS INSTITUCIONALES contra MOISES EDUARDO Asunto : Carta de expresión de interés para la ejecución y financiamiento del Proyecto de Inversión ALVITES CONDORI y MARIA SALOME TASAYCO BERNAL sobre EJECUCIÓN DE TRANSACCIÓN Pública “ADQUISICIÓN DE EQUIPO DE LABORATORIO; CONSTRUCCIÓN DE CERCO Y/O EXTRAJUDICIAL, HOMOLOGADA Y EJECUCIÓN DE GARANTÍA HIPOTECARIA, seguido en el Centro PORTADA",
+    "output": "Información extraída del aviso de remate:\n\nTipo de documento: Remate Judicial\nUbicación del inmueble: nan\nValor base: nan\nFecha de remate: 2025-10-15\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nJunta General Anual 081-2404871-1 provincia de Chachapoyas, departamento de Amazonas, a favor de PROVIAS NACIONAL – MINISTERIO de Accionistas se realizará con quienes asistan en DE TRANSPORTES Y COMUNICACIONES, requerido para la obra de infraestructura “Construcción del segunda convocatoria. Los representantes de Puente Chacanto y Accesos”, que forma parte del proyecto “Carretera Cajamarca – Celendín – Balzas, accionistas deberán presentar el documento que Soritor – La Calzada”, conforme a la documentación técnica brindada por el titular del proyecto que sustenta acredite su representación. la\n\nPregunta: ¿Cuál es el RUC de la empresa?",
+    "input": "",
+    "output": "La empresa es nan."
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Empresa . DE LA EMPRESA disuelta, RUC 20613343173.0, fecha 2025-08-21",
+    "output": "AVISO DE DISOLUCIÓN Y LIQUIDACIÓN\n\nDe conformidad con el artículo 412 de la Ley General de Sociedades, se comunica:\n\nEmpresa: . DE LA EMPRESA\nRUC: 20613343173.0\nFecha de disolución: 2025-08-21\n\nPublicado en el Diario Oficial El Peruano conforme a ley.\n"
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Remate ubicación nan, base nan, fecha 2025-09-29",
+    "output": "AVISO DE REMATE JUDICIAL\n\nPor disposición judicial, se convoca a remate público:\n\nBien inmueble ubicado en: nan\nValor base: nan\nFecha de remate: 2025-09-29\n\nPublicado en el Diario Oficial El Peruano.\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nDISOLUCION Y LIQUIDACION transcurridos 20 días calendarios de la presente SYBERCRIS PERUVIAN CUSTOMS S.A.C. publicación, a efectos a cualquiera que considere Ante la ORLIMA–RENIEC con fecha 04/04/2025 la Por la Junta de Accionistas de fecha 26 de que se vulnera su derecho a fin de que presente Sra. YESICA PATRICIA RODRIGUEZ CARBAJAL, mayo 2025, se aprobó la\n\nPregunta: ¿En qué fecha se publicó la disolución?",
+    "input": "",
+    "output": "La fecha es 2025-06-01."
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Remate ubicación nan, base nan, fecha 2025-07-20",
+    "output": "AVISO DE REMATE JUDICIAL\n\nPor disposición judicial, se convoca a remate público:\n\nBien inmueble ubicado en: nan\nValor base: nan\nFecha de remate: 2025-07-20\n\nPublicado en el Diario Oficial El Peruano.\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nDISOLUCION DE EMPRESA Y NOMBRAMIENTO y Julián Cusiche Medina, Juana inscrito en la partida N°42588369 (partida Ante la Mesa de Partes Virtual de RENIEC, se ha presentado DE LIQUIDADOR, DE LA EMPRESA PARODI S.A. EN Charito Suazo Apolinario, Deni más antigua) del mismo Registro, según lo la solicitud de fecha 18/03/2025, por Don Jose Mercedes LIQUIDACION CON R.U.C. N°20136294637, NOMBRANDOSE Atahuaman Chávez y Wilder determinado en el Informe Técnico N°02648- Amaya Dedios, en representación de doña Zoraida Irma COMO LIQUIDADORA DE LA EMPRESA A CAROLINA LUISA Torres Callupe, Comunidad N°094-2024-\n\nPregunta: ¿Cuál es el nombre de la empresa disuelta?",
+    "input": "",
+    "output": "La empresa es PARODI S.A.."
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de convocatoria a junta de accionistas. Identifica: empresa, RUC y fecha.",
+    "input": "Junta General de Accionistas de LAS LOMAS DE PUNTA SAL S.A.C., a Estimados clientes y público en general, les informamos lo siguiente: realizarse el día 0 1 de diciembre de 2025, a las 4 de la tarde, en el local sito en calle Alcanfores 1.- Los avisos del Boletín Oficial para su publicación en la edición del N° 1002, Departamento N° 602, Miraflores, con el objeto de tratar los siguientes asuntos: sábado 6 de diciembre, serán aceptados hasta las 17:00 horas 1. Aprobación de la Memoria Anual y los Estados Financieros de la sociedad – en vía de del jueves 4 de diciembre. regularización – correspo",
+    "output": "Información extraída del aviso de junta:\n\nTipo de documento: Convocatoria a Junta General de Accionistas\nEmpresa: PUNTA SA\nRUC: No especificado\nFecha de junta: 2025-11-20\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nDISOLUCIÓN Y LIQUIDACIÓN Jefe (e) de Oficina Registral - Miraflores EDICTO EDICTO Registro Nacional de Identificación y Estado Civil P de o r m A a c r ta zo d e d e J l u 2 n 0 ta 2 5 G , e s n e e r a a p l r d o e b ó S o p c o io r s u n co a n n im fe i c d h a a d 3 la 1 002-2387169-1 L la a O cu fi a c l i n A a u R g e u g s i t s o t ra F l e S rn a a n n B d o o r ja B h a a rr a re n c te ib s id o Jo la h n s s o o li n ci , t u i d d e m n e ti d fi i c a a n d te o A R n O t S e A la A O M R E L L I I M A A Q –R U E IR N O IE Z C A c L o I n A G fe A c , h a m e 0 d 4 i / a 0 n 3\n\nPregunta: ¿En qué fecha se publicó la disolución?",
+    "input": "",
+    "output": "La fecha es 2025-04-05."
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nJunta General de Accionistas de fecha 11 de agosto de ORSNBOR - (03.04.2025), solicitando la rectificación AGUILAR MORALES VDA DE TORREBLANCA, identificada 25.07.2025, la ciudadana REBECA BAZAN BELLO, 2 P d R 0 e r a o 2 s ú d i 5 g l u , n S c s á t o e o n z s d a a o c O s o E r e r i n g d c i ó n c is a o l o a l m e , d s o i i d s S e o s . n l A u u t . i c f , i i l c ó c iq a o n u d n y i o d R l a i c . q d U o u o . n i C r d a . D a c N N l i ó o I n . s N e d 2 ñ o e 0 o . 4 r la 7 0 4 7 C e 5 4 m h 4 8 r p 2 9 is r 3 9 t e 9 5 ia s 5 3 n a , . a e m y d l a M s m d e A r i n n\n\nPregunta: ¿Cuál es el RUC de la empresa?",
+    "input": "",
+    "output": "La empresa es nan."
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de convocatoria a junta de accionistas. Identifica: empresa, RUC y fecha.",
+    "input": "junta general de accionistas de fecha 30 de abril de 2025 de Liquidación de la empresa DERMADI SRL, CON RUC EXPEDIDO POR EL INSTITUTO DE EDUCACIÓN SUPERIOR Arimatea S.A.C. (la “Sociedad”), los accionistas de la Sociedad acordaron por unanimidad Nº 20511604444, nombrándose Liquidador a DIEGO TECNOLÓGICO PRIVADO COMPLEJO HOSPITALARIO SAN GERARDO GUTIERREZ DIAZ, con D.N.I. 41011362. PABLO, A NOMBRE DE LA SEÑORA ZOILA AMALIA BECERRA lo siguiente: ORTIZ, IDENTIFICADA CON DNI: 46222898. Lima, 02 de junio de 2025. • De conformidad con el numeral 2 del artículo 202 de la Ley General de Sociedades, REA",
+    "output": "Información extraída del aviso de junta:\n\nTipo de documento: Convocatoria a Junta General de Accionistas\nEmpresa: nan\nRUC: No especificado\nFecha de junta: 2025-06-07\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nJunta General de Accionistas de fecha 05 de Mayo de 2025, HISPANO PERUANA DE CONSTRUCCION 2011 S.A.C con RUC No. La Superintendencia Nacional de Fiscalización Laboral - SUNAFIL, hace de conocimiento al público en general, la relación de empleadores y/o administrados que no pudieron ser notificados en sus respectivos domicilios, por lo que, de conformidad con lo establecido en el inciso 20.1.3 del numeral 20.1 del artículo 20° de la Ley N° 27444 - Ley del 20545927790, se decidió reducir el capital de Procedimiento Administrativo General, se cumple con notificar conforme a ley, con el fin de con\n\nPregunta: ¿Qué empresa convoca a junta?",
+    "input": "",
+    "output": "La empresa es nan."
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de convocatoria a junta de accionistas. Identifica: empresa, RUC y fecha.",
+    "input": "JUNTA GENERAL DE ACCIONISTAS PROYECTOS SAN MIGUEL DE OLLARAYA S.A. De conformidad con lo dispuesto por el D.S. No. 019-2019-VIVIENDA, T.U.O. de la ley 29151, su Reglamento Decreto Supremo N° 008-2021-VIVIENDA y el Decreto Supremo Se convoca a los señores accionistas de la sociedad PROYECTOS SAN MIGUEL DE OLLARAYA S.A. a N° 011-2022-MINEDU, Decreto Supremo que aprueba el Reglamento de la Ley N° 31318, la",
+    "output": "Información extraída del aviso de junta:\n\nTipo de documento: Convocatoria a Junta General de Accionistas\nEmpresa: ACCIONISTAS PROYECTOS SA\nRUC: No especificado\nFecha de junta: 2025-07-31\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de remate judicial. Identifica: ubicación, valor base y fecha.",
+    "input": "subasta se realizará bajo la modalidad “A viva Se convoca a Junta Obligatoria Anual de Accionistas de Administradora Clínica Ricardo Palma S.A., en primera convocatoria para el día 28 de mayo de 2025 a las 09:00 horas en el local sito en voz”, presencial y virtual. Av. Javier Prado Este No. 1066, distrito de San Isidro, provincia y departamento de Lima, con el EL DETALLE DE LOS INMUEBLES A",
+    "output": "Información extraída del aviso de remate:\n\nTipo de documento: Remate Judicial\nUbicación del inmueble: nan\nValor base: nan\nFecha de remate: 2025-05-16\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Junta de nan, fecha 2025-06-19",
+    "output": "CONVOCATORIA A JUNTA GENERAL DE ACCIONISTAS\n\nSe convoca a los señores accionistas de:\n\nEmpresa: nan\nRUC: nan\nFecha de junta: 2025-06-19\n\nPublicado conforme al artículo 43 de la Ley General de Sociedades.\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nremate tendrá lugar en el local del Juz- Demandado Lavado Saldias de Nathal’s Andrea Liliana Juez DE JUSTICIA DE PUNO.- 081-2434043_1-B-0015486\n\nPregunta: ¿Dónde está ubicado el inmueble?",
+    "input": "",
+    "output": "El inmueble está ubicado en nan."
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Remate ubicación nan, base nan, fecha 2025-08-21",
+    "output": "AVISO DE REMATE JUDICIAL\n\nPor disposición judicial, se convoca a remate público:\n\nBien inmueble ubicado en: nan\nValor base: nan\nFecha de remate: 2025-08-21\n\nPublicado en el Diario Oficial El Peruano.\n"
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Junta de DESA, fecha 2025-05-30",
+    "output": "CONVOCATORIA A JUNTA GENERAL DE ACCIONISTAS\n\nSe convoca a los señores accionistas de:\n\nEmpresa: DESA\nRUC: nan\nFecha de junta: 2025-05-30\n\nPublicado conforme al artículo 43 de la Ley General de Sociedades.\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nREMATE del inmueble ubicado en CALLE FRANCISCO IBAÑEZ a la orden de SUNAT/BANCO DE LA NACIÓN, en Soles (S/), el cuarto (4to) día hábil de realizado el\n\nPregunta: ¿Dónde está ubicado el inmueble?",
+    "input": "",
+    "output": "El inmueble está ubicado en nan."
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de convocatoria a junta de accionistas. Identifica: empresa, RUC y fecha.",
+    "input": "Junta General de Accionistas BIENES MUEBLES PATRIMONIALES de fecha 29 de Agosto de 2025, se acordó que la sociedad APROBADA POR RESOLUCIÓN DE RESOLUCION DE GERENCIA GENERAL utilizará, a partir de la fecha de celebrada la junta, la GERENCIA N° 258-2025-GM/MDL-C denominación SUGO S.A.C EN LIQUIDACION. N° 311 - 2025-300-EPS TACNA S.A. REPROGRAMACION DEL ACTO PÚBLICO Y Lima, 01 de Setiembre de 2025 ADJUDICACIÓN: 12 de setiembre del 2025 - EL LIQUIDADOR 10:00 a.m., en el Estadio Municipal de Layo de la MARILO OBLITAS PEREZ DNI 09630062 Tacna, 02 SEP 2025 Carmen Ekaterina Valdivia Alfaro Municipalid",
+    "output": "Información extraída del aviso de junta:\n\nTipo de documento: Convocatoria a Junta General de Accionistas\nEmpresa: nan\nRUC: No especificado\nFecha de junta: 2025-09-07\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Empresa nan disuelta, RUC nan, fecha 2025-10-26",
+    "output": "AVISO DE DISOLUCIÓN Y LIQUIDACIÓN\n\nDe conformidad con el artículo 412 de la Ley General de Sociedades, se comunica:\n\nEmpresa: nan\nRUC: nan\nFecha de disolución: 2025-10-26\n\nPublicado en el Diario Oficial El Peruano conforme a ley.\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nDISOLUCION Conforme a lo dispuesto por el Articulo 142 de la ley SUPERINTENDENCIA NACIONAL DE ADUANAS Y DE ADMINISTRACIÓN TRIBUTARIA No.26887, Ley General de Sociedades, se comunica INTENDENCIA NACIONAL DE CONTROL ADUANERO al público en general que, mediante\n\nPregunta: ¿Cuál es el nombre de la empresa disuelta?",
+    "input": "",
+    "output": "La empresa es nan."
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de convocatoria a junta de accionistas. Identifica: empresa, RUC y fecha.",
+    "input": "Junta General Rectificación Administrativa del Acta de Matrimonio N° de Accionistas celebrada el 28 de mayo 1009514626 perteneciente a WILBER LEÓN CHACÓN acta de nacimiento N°5000046692 de CERAFINA PAULA Ante la ORLIMA–RENIEC, EMMA JESUS SALAS del año 2025, se acordó la disolución y DELGADO, respecto de la modificación del su primer pre HUAMAN DONAIRE DE HUARCAYA, en el sentido que se GONZALES DE MORALES, mediante Expediente liquidación de la empresa VARIEDAD DE nombre DICE: WILBERT, DEBE DECIR: WILBER; asi como, consignó erróneamente el nombre de la titular del acta en Nº 1003-2025-AM-ORLIMA,",
+    "output": "Información extraída del aviso de junta:\n\nTipo de documento: Convocatoria a Junta General de Accionistas\nEmpresa: nan\nRUC: No especificado\nFecha de junta: 2025-06-18\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso legal de disolución publicado en el Diario El Peruano. Identifica: tipo de documento, empresa, RUC y fecha.",
+    "input": "disolución y liquidación de la empresa COMO APTOS MEDIANTE EL PROCEDIMIENTO DE FORMALIZACION DE LA PROPIEDAD RURAL, EN consignado erróneamente los nombres de los padres como: MERITO A LA LEY N° 31145 “LEY DE SANEAMIENTO FISICO LEGAL Y FORMALIZACION DE PREDIOS “HUMBERTO PÉREZ CHÁVEZ” y “CAMEN LASTENIA GUTTI “GLOBAL CUSTOMER ADVICE E.I.R.L.” con RURALES” Y SU REGLAMENTO APROBADO MEDIANTE DECRETO SUPREMO N° 014-202-MIDAGRI. DE PÉREZ” siendo los nombres correctos: “HUMBERTO RUC 20608552554, nombrado liquidador LEOPOLDO PÉREZ CHÁVEZ” y “CARMEN LASTENIA a Eugenia Peregrina Diaz Falcon con DNI E A L",
+    "output": "Información extraída del aviso de disolución:\n\nTipo de documento: Disolución y Liquidación\nEmpresa: LEY DE SA\nRUC: 20608552554.0\nFecha de publicación: 2025-08-13\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de convocatoria a junta de accionistas. Identifica: empresa, RUC y fecha.",
+    "input": "Junta General de Accionistas de TEJIDOS JORGITO S.A.C., SANEAMIENTO FÍSICO LEGAL DE BIENES MUEBLES celebrada el 23 de julio de 2025, se acordó que esta escinda un bloque patrimonial de S/ 3,502,866.12 en favor de INMOBILIARIA El bien mueble descrito a continuación, en el distrito de Lurín, provincia y departamento de Lima, se encuentran en proceso de saneamiento físico y CUADRA TRES S.A.C., sociedad que se legal, conforme a lo establecido en el Directiva N°0006-2021-EF/54.01 “Directiva para la Gestión de Bienes Muebles Patrimoniales en el marco del constituirá con el bloque escindido. Sistema",
+    "output": "Información extraída del aviso de junta:\n\nTipo de documento: Convocatoria a Junta General de Accionistas\nEmpresa: nan\nRUC: No especificado\nFecha de junta: 2025-08-20\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Remate ubicación nan, base nan, fecha 2025-09-23",
+    "output": "AVISO DE REMATE JUDICIAL\n\nPor disposición judicial, se convoca a remate público:\n\nBien inmueble ubicado en: nan\nValor base: nan\nFecha de remate: 2025-09-23\n\nPublicado en el Diario Oficial El Peruano.\n"
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Empresa DICASA disuelta, RUC nan, fecha 2025-04-25",
+    "output": "AVISO DE DISOLUCIÓN Y LIQUIDACIÓN\n\nDe conformidad con el artículo 412 de la Ley General de Sociedades, se comunica:\n\nEmpresa: DICASA\nRUC: nan\nFecha de disolución: 2025-04-25\n\nPublicado en el Diario Oficial El Peruano conforme a ley.\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nJUNTA GENERAL DE ACCIONISTAS LA NIÑA SOCIEDAD ANÓNIMA CERRADA PETITORIO DE CONCESION MINERA comunica que mediante\n\nPregunta: ¿Cuál es el RUC de la empresa?",
+    "input": "",
+    "output": "La empresa es nan."
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de convocatoria a junta de accionistas. Identifica: empresa, RUC y fecha.",
+    "input": "Junta General de Accionistas del 30 de POR ACTA DE DECISIÓN DE TITULAR DEL 28 DE ENTIDAD PRIVADA SUPERVISORA mayo del 2025, se decidió la disolución y liquidación ABRIL DE 2025, LA TITULAR DE LA EMPRESA de la sociedad: “ATOMIC QUIMERA S.A.C.” “SEJCON SG E.I.R.L.” DECIDE TRANSFORMAR LA “MEJORAMIENTO Y AMPLIACIÓN DEL SERVICIO DE ATENCIÓN DE SALUD BÁSICOS - “ATQU S.A.C.” con RUC Nº 20608215272, EMPRESA “SEJCON SG S.A.C..”DE CONFORMIDAD EN EL TROPICO DISTRITO DE HUANCHACO DE LA PROVINCIA DE TRUJILLO DEL nombrándose como liquidador a Arturo Ivar CON EL ART. 337 DE LA LEY GENERAL DE DEPARTAMENTO DE",
+    "output": "Información extraída del aviso de junta:\n\nTipo de documento: Convocatoria a Junta General de Accionistas\nEmpresa: LA EMPRESA\nRUC: No especificado\nFecha de junta: 2025-06-05\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso legal de disolución publicado en el Diario El Peruano. Identifica: tipo de documento, empresa, RUC y fecha.",
+    "input": "disolución y liquidación de la al nombre de la progenitora de la titular de la acta. Dice: ALIDA su Acta de Nacimiento Nº1014468479, en el sentido que Jefe de la Oficina Registral - Independencia sociedad ALMACÉN GURU PERÚ S.A.C., con GRACIELA CHANG DE RIVERA, debe decir: ALIDA GRACIELA se consignó los prenombres del padre como: VICTOR Registro Nacional de Identificación y Estado Civil RUC N° 20607880604, designándose como CHANG LUZULA DE RIVERA. PAULINO, debiendo decir: PAULINO VÍCTOR. Se Se efectúa la publicación según lo previsto en el artículo 73° del 002-2440802-1 liquidador a la señorita",
+    "output": "Información extraída del aviso de disolución:\n\nTipo de documento: Disolución y Liquidación\nEmpresa: ALMACÉN GURU PERÚ S.A.C.\nRUC: 20607880604.0\nFecha de publicación: 2025-09-24\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Empresa CESA disuelta, RUC nan, fecha 2025-07-03",
+    "output": "AVISO DE DISOLUCIÓN Y LIQUIDACIÓN\n\nDe conformidad con el artículo 412 de la Ley General de Sociedades, se comunica:\n\nEmpresa: CESA\nRUC: nan\nFecha de disolución: 2025-07-03\n\nPublicado en el Diario Oficial El Peruano conforme a ley.\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nJunta General de Accionistas de MAJ INVEST ha consignado los prenombres de la madre del titular como: septiembre de 2025, extendida ante Notario 002-2458359-1 SOUTH AMERICA S.A. (hoy MAJ INVEST SOUTH JULIA siendo lo correcto: AURELIA JULIANA. Público de Lima, Doctor Jose Moreyra EDICTO A de M E no R v IC ie A m b S re .A d . e E N 20 L 2 I 5 Q h U a ID d A e C ci I d Ó id N o ) l c a e l d e i b s r o a lu d c a i ó e n l d 11 e Se efectúa esta publicación de acuerdo al Art. 73 del D.S. P Fi e d l e o i s c i o , m s e e t ido h , a c c o o n n s f t o it r u m id e o u a n l Pa C tr o im nt o\n\nPregunta: ¿Cuándo se realizará la junta?",
+    "input": "",
+    "output": "La fecha es 2025-11-15."
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de convocatoria a junta de accionistas. Identifica: empresa, RUC y fecha.",
+    "input": "Junta General LIMCOM SAC con RUC Nº20547143273 inscrita de Accionistas de fecha 01 de mayo de 2025, SECRETARÍA GENERAL - REGISTROS CIVILES SECRETARIA GENERAL - EDICTO MATRIMONIAL.- Exp. Nº e Ju n r l í a d i p c a a r s t id d a e N L º im 1 a 2 , 8 0 d 6 e 9 si 2 g 8 n á d n e d l R os e e g i c s o tr m o o d e L P iq e u r i s d o a n d a o s r se acordó la Disolución y Liquidación de la E en D I e C l T A O rt . M 2 A 5 T 0 R d IM el O C N ó IA di L g . o - D C e iv i c l o h n a fo g r o m s id a a b d e r c q o u n e l : o d d o i n s p J u U e A st N o 0 2 6 5 8 0 2 d -2 e 0 l 2 C 5 ó .",
+    "output": "Información extraída del aviso de junta:\n\nTipo de documento: Convocatoria a Junta General de Accionistas\nEmpresa: nan\nRUC: No especificado\nFecha de junta: 2025-06-29\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nDISOLUCION Y LIQUIDACION DE LA SOCIEDAD PROMEDIC S.A.C. CON R.U.C. N° 20226013696 DE ACUERDO A LO SEÑALADO EN EL NUMERAL 8) DEL ARTICULO 407 DE LA LEY GENERAL DE SOCIEDADES. COMO CONSECUENCIA DE LO ANTERIOR, SE ACORDÓ NOMBRAR A LA ENTIDAD LIQUIDADORA “ALMERCO & ORTEGA ASOCIADOS S.A.C.”, CON R.U.C. N° 20600670264 REPRESENTADA POR SU GERENTE GENERAL RICHARD ABEL ALMERCO SOTO, DE NACIONALIDAD PERUANA, IDENTIFICADO CON D.N.I. Nº 09570909.= Sr. Guillermo A. Jiménez Flores GERENTE GENERAL PROMEDIC S.A.C. 002-2457649-3 081-2457344-1 12 BOLETÍN OFICIAL EL PERUANO I Lima, jueves 13 de noviembre de 2025\n\nPregunta: ¿Qué tipo de documento legal es este?",
+    "input": "",
+    "output": "Este es un aviso de disolución y liquidación de sociedad."
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nremate: para el día 30 de septiembre del 2025, a horas 3:15 P.M. GRAVÁMENES: En el Asiento N° D00003: INSCRIPCIÓN DE HIPOTECA.- Constituida a favor de PATRIMONIO EN FIDEICOMISO ACP RTC - DECRETO LEGISLATIVO No 861. TÍTULO XI. representado por GRUPO CORIL SOCIEDAD TITULIZADORA S.A., inscrito en la partida No 11012397 del Registro de Personas Jurídicas de Lima, hasta por el monto de USS. 56,968.70 dólares americanos, a fin de garantizar las obligaciones detalladas en la escritura pública de fecha 23/08/2023, otorgada ante el Notario. Público de Lima Dr. Alejandro Paul Rodríguez Cruzado. En el As\n\nPregunta: ¿Dónde está ubicado el inmueble?",
+    "input": "",
+    "output": "El inmueble está ubicado en nan."
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de convocatoria a junta de accionistas. Identifica: empresa, RUC y fecha.",
+    "input": "Junta General de Accionistas del 10 de octubre de Ante la Sub Dirección de Investigación y Depuración Registral, de la Ante la ORLIMA-RENIEC, BALDOMERO ALFREDO CUEVA de Sociedades, se pone en conocimiento que, comu- 2025, se acordó la disolución y liquidación de LOHU Dirección de Registros de Identificación del RENIEC, el ciudadano MONTENEGRO, mediante Expediente Nº 1403-2025-AM- nica que mediante",
+    "output": "Información extraída del aviso de junta:\n\nTipo de documento: Convocatoria a Junta General de Accionistas\nEmpresa: nan\nRUC: No especificado\nFecha de junta: 2025-10-20\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Remate ubicación nan, base nan, fecha 2025-09-05",
+    "output": "AVISO DE REMATE JUDICIAL\n\nPor disposición judicial, se convoca a remate público:\n\nBien inmueble ubicado en: nan\nValor base: nan\nFecha de remate: 2025-09-05\n\nPublicado en el Diario Oficial El Peruano.\n"
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Junta de CONOCIMIENTO GERENTE GENERAL PROYECTOS S.A.C., fecha 2025-08-20",
+    "output": "CONVOCATORIA A JUNTA GENERAL DE ACCIONISTAS\n\nSe convoca a los señores accionistas de:\n\nEmpresa: CONOCIMIENTO GERENTE GENERAL PROYECTOS S.A.C.\nRUC: nan\nFecha de junta: 2025-08-20\n\nPublicado conforme al artículo 43 de la Ley General de Sociedades.\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de remate judicial. Identifica: ubicación, valor base y fecha.",
+    "input": "REMATE PÚBLICO DE BIENES El martes 15 de julio de 2025, a partir de las 10:00 horas, por orden del Ejecutor Coactivo de la Intendencia 10:30 horas - COMERCIALIZADORA JOQUEMAR E.I.R.L - RUC: 20532068674; Ejecutor Coactivo: Juan de Principales Contribuyentes Nacionales Jorge Oscar Cabrejos Valladares y del Ejecutor Coactivo de la Carlos Auccapuro Cueva; Auxiliar Coactivo: Jessenia Quispe Coila, Expediente Coactivo N° 0230063072892 Intendencia Lima Juan Carlos Auccapuro Cueva, se realizará el",
+    "output": "Información extraída del aviso de remate:\n\nTipo de documento: Remate Judicial\nUbicación del inmueble: nan\nValor base: nan\nFecha de remate: 2025-07-09\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nJunta General de Accionistas será celebrada de manera virtual y no presencial, a través de la plataforma “Microsoft Teams”, mediante la cual se efectuará también el cómputo del quórum y el ejercicio del voto de los accionistas asistentes. La Sociedad remitirá oportunamente y de manera previa a la realización de la\n\nPregunta: ¿Qué empresa convoca a junta?",
+    "input": "",
+    "output": "La empresa es nan."
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nDISOLUCIÓN FREDY CESAR VARGAS CABALLERO Y LIQUIDACIÓN Jefe(e) de Oficina Registral San Martin de Porres Dirección de Servicios Registrales Conforme a lo dispuesto por el artículo 412° de Registro Nacional de Identificación y Estado Civil la Ley General de Sociedades, se pone en 002-2445966-1 conocimiento que mediante\n\nPregunta: ¿Qué RUC tiene la empresa?",
+    "input": "",
+    "output": "La empresa es DISOLUCIÓN FREDY CESA."
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de remate judicial. Identifica: ubicación, valor base y fecha.",
+    "input": "subastas@aelucoop.com.pe de Incautación, de acuerdo con el siguiente detalle: 6. INFORMES: Al teléfono 920 034 366 y al email:",
+    "output": "Información extraída del aviso de remate:\n\nTipo de documento: Remate Judicial\nUbicación del inmueble: nan\nValor base: nan\nFecha de remate: 2025-04-08\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nSubasta Pública extrajudicial, de un predio ubicado en distrito ALEXANDER ESQUIVEL CHÁVEZ, sobre OBLIGACIÓN DE DAR SUMA DE DINERO, INTERESES, EJECUCIÓN DE de Santiago de Surco, provincia y departamento de Lima. Situación del bien, “donde está y como está y GARANTÍA HIPOTECARIA, COSTAS Y COSTOS, seguido en el Centro de Arbitraje Soluciones Inmobiliarias & Alternativas ocupados por terceros”. DESCRIPCIÓN DEL PREDIO: Vivienda, ubicada en Jr. Enrique León García y Jr. Financieras, a cargo de la señora Árbitro Dra. TALIA DENISSE DE LA CRUZ CASTILLO, Secretario Arbitral FLAVIO AIMAR CHUMBIRAY MORENO\n\nPregunta: ¿Cuándo se realizará el remate?",
+    "input": "",
+    "output": "La fecha es 2025-06-09."
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nREMATE del INMUEBLE ubicado en base de S/ 64,593.49 soles (INCLUIDO IGV). DEPÓSITO N° 102 – SÓTANO 10, AVENIDA CIRCUNVALACIÓN DEL CLUB GOLF LOS INCAS N° 11:14 horas - GAMARRA ROSAS VDA DE GOMES MARIANELLA - RUC: 10064458286; Ejecutor 152, URBANIZACIÓN LOTIZACIÓN CLUB GOLF LOS INCAS, DISTRITO DE SANTIAGO DE SURCO, Coactivo: Juan Carlos Auccapuro Cueva; Auxiliar Coactivo: Renzo Wilfredo Castillo Roque, Expediente PROVINCIA Y DEPARTAMENTO DE LIMA; CUYO DOMINIO CORRE INSCRITO EN LA PARTIDA Coactivo N° 0290061330696 y Acumulados; se procederá al PRIMER\n\nPregunta: ¿Dónde está ubicado el inmueble?",
+    "input": "",
+    "output": "El inmueble está ubicado en nan."
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso legal de disolución publicado en el Diario El Peruano. Identifica: tipo de documento, empresa, RUC y fecha.",
+    "input": "DISOLUCION Y LIQUIDACION de la sociedad INVERSIONES Y TRANSPORTES CAIRCON SOCIEDAD ANONIMA CERRADA con RUC N°20608275402, nombrándose liquidador a don LUIS KELTHON SILVA CABALLA identificado con documento nacional de identidad número cuarenta y tres millones setecientos treinta y siete mil doscientos cincuenta y siete (DNI N°43737257), lo que se pone en conocimiento de todos los interesados conforme a lo dispuesto por el artículo cuatrocientos doce (art.412) de la Ley General de Sociedades – Ley N°26887. Lima, 10 de setiembre del 2025. LUIS KELTHON SILVA CABALLA 002-2437195-1 LIQUIDADOR EDICTO",
+    "output": "Información extraída del aviso de disolución:\n\nTipo de documento: Disolución y Liquidación\nEmpresa: ORMIR. GLORIA GRIMANESA\nRUC: 20608275402.0\nFecha de publicación: 2025-09-13\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nremates programados en la fecha y retirado del Almacén. S/500,000.00 soles del 28/12/2022 anotado en el asiento 00014 y su embargo definitivo de la medida cautelar No se permitirá, en las actos de\n\nPregunta: ¿Cuándo se realizará el remate?",
+    "input": "",
+    "output": "La fecha es 2025-11-07."
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nJunta General AL 11 DE AGOSTO 2025 Artística, especialidad Folklore mención Danza, de Accionistas de la empresa: GIJA INVERSIONES AVISO CONJUNTO DE ESCISIÓN EN NUEVOS SOLES otorgado por la Escuela Nacional de Folklore SOCIEDAD a las 09:00 horas, en su local social sito TOTAL ACTIVO S/. 0.00 José María Arguedas a nombre de Cecilia Martina en, la cual se llevará a cabo en primera convocatoria, Cossío Acosta, con DNI N° 10741970. En cumplimiento de lo dispuesto por los TOTAL PASIVO 0.00 el día 22 de Agosto del 2025 a las 09:00 horas, en Se tramita el duplicado ante la DRELM, según las Instalacion\n\nPregunta: ¿Qué empresa convoca a junta?",
+    "input": "",
+    "output": "La empresa es nan."
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de convocatoria a junta de accionistas. Identifica: empresa, RUC y fecha.",
+    "input": "Junta General de Accionistas del 21 de mayo de 2025 se acordó la por",
+    "output": "Información extraída del aviso de junta:\n\nTipo de documento: Convocatoria a Junta General de Accionistas\nEmpresa: nan\nRUC: No especificado\nFecha de junta: 2025-11-29\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\njunta general de accionistas de fecha 29 de noviembre de “Decenio de la Igualdad de Oportunidades para Mujeres y Hombres” 2023, se acordó reducir el capital social de “Año de la recuperación y consolidación de la economía peruana” Corporación Mercantil Recife S.A.C. de la suma de S/ 13’968,029.00 (Trece millones PROCEDIMIENTO DE ADQUISICIÓN DE INMUEBLES INSCRITOS CON TRACTO SUCESIVO novecientos sesenta y ocho mil veintinueve con 00/100 soles) a la nueva suma de El Ministerio de Transportes y Comunicaciones (Sujeto Activo), con domicilio legal en Jirón Zorritos Nº 1203, distrito de Cercado de L\n\nPregunta: ¿Qué tipo de reunión se convoca?",
+    "input": "",
+    "output": "Esta es una convocatoria a junta general de accionistas."
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de convocatoria a junta de accionistas. Identifica: empresa, RUC y fecha.",
+    "input": "JUNTA GENERAL DE SAMUEL PASTOR, PROVINCIA DE CAMANÁ, setenta y nueve con ACCIONISTAS CELEBRADA EL 04 DE AGOSTO DE 2025, SE ADOPTARON, ENTRE OTROS, LOS DEPARTAMENTO DE AREQUIPA 09/100 soles) SIGUIENTES ACUERDOS: 1. AUMENTAR EL CAPITAL SOCIAL MEDIANTE CAPITALIZACION DE ACREENCIAS HASTA POR LA *El monto referencial del Convenio de Inversión contempla la elaboración del expediente técnico SUMA DE S/8’606,654.00 (OCHO MILLONES SEISCIENTOS SEIS MIL SEISCIENTOS CINCUENTA (S/222,722.99), ejecución de obra (S/13,483,456.10), financiamiento de la supervisión de la elaboración Y CUATRO 00/100 SOLES) EN C",
+    "output": "Información extraída del aviso de junta:\n\nTipo de documento: Convocatoria a Junta General de Accionistas\nEmpresa: INMUEBLES LIMA S.A.C\nRUC: No especificado\nFecha de junta: 2025-08-14\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Empresa DISOLUCIÓN VOLUNTARIA Y DE LIQUIDACIÓN Y OTROS VANTAGE SPECIALTY CHEMICALS S.A.C. disuelta, RUC nan, fecha 2025-08-25",
+    "output": "AVISO DE DISOLUCIÓN Y LIQUIDACIÓN\n\nDe conformidad con el artículo 412 de la Ley General de Sociedades, se comunica:\n\nEmpresa: DISOLUCIÓN VOLUNTARIA Y DE LIQUIDACIÓN Y OTROS VANTAGE SPECIALTY CHEMICALS S.A.C.\nRUC: nan\nFecha de disolución: 2025-08-25\n\nPublicado en el Diario Oficial El Peruano conforme a ley.\n"
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Remate ubicación nan, base nan, fecha 2025-07-11",
+    "output": "AVISO DE REMATE JUDICIAL\n\nPor disposición judicial, se convoca a remate público:\n\nBien inmueble ubicado en: nan\nValor base: nan\nFecha de remate: 2025-07-11\n\nPublicado en el Diario Oficial El Peruano.\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de remate judicial. Identifica: ubicación, valor base y fecha.",
+    "input": "remate, de ser necesario con el auxilio de la fuerza pública (PNP), e incluso restringirles el ingreso en los siguien- Y DE ADMINISTRACIÓN TRIBUTARIA tes",
+    "output": "Información extraída del aviso de remate:\n\nTipo de documento: Remate Judicial\nUbicación del inmueble: nan\nValor base: nan\nFecha de remate: 2025-06-23\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Empresa MARISOL MARIA CACERES SA disuelta, RUC nan, fecha 2025-04-01",
+    "output": "AVISO DE DISOLUCIÓN Y LIQUIDACIÓN\n\nDe conformidad con el artículo 412 de la Ley General de Sociedades, se comunica:\n\nEmpresa: MARISOL MARIA CACERES SA\nRUC: nan\nFecha de disolución: 2025-04-01\n\nPublicado en el Diario Oficial El Peruano conforme a ley.\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nsubastado más I.G.V. Las ofertas (en sobre cerrado) podrán ser depositadas en las ánforas que se acondicionarán en el lugar 12. FORMA DE PAGO: Efectivo o cheque certificado o de gerencia a la orden de SUNAT/BANCO DE LA del\n\nPregunta: ¿Qué tipo de aviso es este?",
+    "input": "",
+    "output": "Este es un aviso de remate judicial."
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Junta de nan, fecha 2025-04-16",
+    "output": "CONVOCATORIA A JUNTA GENERAL DE ACCIONISTAS\n\nSe convoca a los señores accionistas de:\n\nEmpresa: nan\nRUC: nan\nFecha de junta: 2025-04-16\n\nPublicado conforme al artículo 43 de la Ley General de Sociedades.\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nJunta General de Accionistas de Trytoku S.A.C., celebrada el 26 de mayo de 2025, se mediante la cual Graciela Maritza Dulanto Manrique AL 31 DE DICIEMBRE DEL 2024 acordó la disolución y posterior liquidación de TRYTOKU S.A.C., con R.U.C. N° 20609705770 y identificada con D.N.I. N° 07732200, con Expediente (EXPRESADO EN SOLES) domiciliada en Jr. Tarma N° 119, Dpto. 402 , Cercado de Lima, distrito, provincia y departamento de Lima, N° 0144-2025-AM-ORSB solicita la Rectificación de su VENTAS NETAS 0 nombrándose como liquidador a ALFA PERÚ ASESORES S.A.C., con R.U.C. N° 20605612823, que Acta de Na\n\nPregunta: ¿Qué tipo de reunión se convoca?",
+    "input": "",
+    "output": "Esta es una convocatoria a junta general de accionistas."
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nJunta General de Accionistas ria Anual de Accionistas del 23 de abril del 2018. 2. Modificación parcial del Estatuto: Numeral 9.2. padre del titular como Cesar Caballero Escudero, debiendo decir: contrayente, que se consignó erróneamente como: de fecha 22 de mayo de 2025, se acordó que la sociedad del artículo 9. CÉSAR EUSEBIO CABALLERO ESCUDERO. LE. 09660877, siendo lo correcto L.E. 09650877. utilizará, a partir de la fecha de celebrada la junta, la Se efectúa la publicación prevista en el artículo 73 del D.S 3. Aprobación de venta de bienes inmuebles y otor- denominación ARBITUR S.A.C. EN LI\n\nPregunta: ¿Cuál es el RUC de la empresa?",
+    "input": "",
+    "output": "La empresa es nan."
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de remate judicial. Identifica: ubicación, valor base y fecha.",
+    "input": "remate, de ser necesario con el auxilio de la fuerza pública (PNP), e incluso restringirles el ingreso en los Superintendencia Nº 216-2004/SUNAT y normas modificatorias. siguientes",
+    "output": "Información extraída del aviso de remate:\n\nTipo de documento: Remate Judicial\nUbicación del inmueble: nan\nValor base: nan\nFecha de remate: 2025-10-23\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nJUNTA GENERAL DE ACCIONISTAS, la cual se llevará a cabo en: . Primera convocatoria: el día 7 de julio del 2025, a las 10:00 horas, en el local ubicado en cal. Los Alcanfores N° 495, int. 505, urb. Leuro, distrito de Miraflores, ciudad y departamento de Lima. . Segunda convocatoria (de ser necesaria): el día 14 de julio del 2025, a las 10:00 horas, en el mismo lugar. ORDEN DEL DÍA: ° Modificación parcial del Estatuto Social, respecto al artículo 8° – Régimen de la Gerencia. Se recuerda a los señores accionistas que, de acuerdo al artículo 247° de la Ley General de Sociedades, deberán asistir pe\n\nPregunta: ¿Cuál es el RUC de la empresa?",
+    "input": "",
+    "output": "La empresa es TRANSFORMACIÓN DE EIRL A SAC."
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso legal de disolución publicado en el Diario El Peruano. Identifica: tipo de documento, empresa, RUC y fecha.",
+    "input": "disolución y VERTICE NORTE ESTE liquidación de Hydrexa Perú S.A.C.,con RUC 20603629061, de conformidad con el artículo 43 y 412 de la Ley General 1 8 510 412 de Sociedades, designándose como liquidador a Ricardo 2 8 507 412 Augusto Rinaldi Mansilla. A partir de la fecha, toda 002-2455525-1 3 8 507 410 comunicación deberá ser dirigida a Calle Manuel del Pino 4 8 508 410 No. 699, oficina No. 301 Santa Beatriz Lima. AVISO DE",
+    "output": "Información extraída del aviso de disolución:\n\nTipo de documento: Disolución y Liquidación\nEmpresa: S.A.C.\nRUC: 20603629061.0\nFecha de publicación: 2025-11-09\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de convocatoria a junta de accionistas. Identifica: empresa, RUC y fecha.",
+    "input": "junta general de accionistas de Rectificación Administrativa de su Acta de hijo de don Leonardo Severo Rashta Rojas y doña abril de 2025, se acordó la DISOLUCIÓN PETIT POIS S.A.C., celebrada el 9 de abril Nacimiento N° 1004167956, por haberse consignado Ambrocia Milla Capa; lo cita perentoriamente a Y LIQUIDACIÓN de “MISO & DARG de 2025, acordó reducir el capital social erróneamente el nombre de su madre como: “ELISA comparecer, contactándonos al correo tribunal. E.I.R.L.” nombrándose como liquidador a en S/ 7’327,549.20, disminuyéndolo de MC EVOY”, siendo lo correcto: “MARÍA ELISA MC secretar",
+    "output": "Información extraída del aviso de junta:\n\nTipo de documento: Convocatoria a Junta General de Accionistas\nEmpresa: nan\nRUC: No especificado\nFecha de junta: 2025-04-16\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de convocatoria a junta de accionistas. Identifica: empresa, RUC y fecha.",
+    "input": "JUNTA GENERAL DE ACCIONISTAS SERGEREP S.A.C. (11/07/2025) Postales, referida al no pago de la tasa por derecho de concesión postal. Por lo tanto, siguiente de la El Directorio de Transportes Lima Urban se propone sancionarla con una multa ascendente a una con una décima (1.1) Unidad presente publicación Company S.A.; en concordancia con el artículo Impositiva Tributaria. 116 de la Ley General de Sociedades y los Ha quedado acreditada la responsabilidad de la empresa AIR POST LIMA S.A.C., Descargos dentro Estatutos de la empresa; convoca a Junta identificada con RUC N° 20517349390, por la comis",
+    "output": "Información extraída del aviso de junta:\n\nTipo de documento: Convocatoria a Junta General de Accionistas\nEmpresa: ACCIONISTAS SERGEREP S.A.C.\nRUC: No especificado\nFecha de junta: 2025-11-24\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\njunta general extra ordinaria de accionistas de mayo del 2025, se decidió la disolución y liquidación fecha 29 de mayo del 2025, se acordó la Disolución y de la sociedad: “ATOMIC QUIMERA S.A.C.” Liquidación de CAPILAR ADVANCED CENTER S.A.C., - “ATQU S.A.C.” con RUC Nº 20608215272, RUC N° 20605697594, nombrándose como Liquidador a nombrándose como liquidador a Arturo Ivar el señor Percy José Dumet Sánchez, identificado con DNI Coasaca Schreiber, con D.N.I. N°. 44810688. No. 71951012. Conforme Art. 412 Ley General de Sociedades. Lima, 30 de mayo del 2025. Lima, 29 de mayo de 2025. ARTURO IVAR CO\n\nPregunta: ¿Cuándo se realizará la junta?",
+    "input": "",
+    "output": "La fecha es 2025-06-06."
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso legal de disolución publicado en el Diario El Peruano. Identifica: tipo de documento, empresa, RUC y fecha.",
+    "input": "DISOLUCIÓN Y LIQUI- MARIA VERONICA CABRERA TARAZONA, identificada con DNI DACIÓN DE MINERA SONCCO AMOT EMPRESA IN- N° 09439277, solicita la Rectificación Administrativa de su Acta DIVIDUAL DE RESPONSABILIDAD LIMITADA, CON de Nacimiento N° 1010919106, en el sentido que se consignó R.U.C. NÚMERO 20606519347, NOMBRÁNDOSE COMO LIQUIDADOR A FERNANDO JAIME PRADA erróneamente el nombre de su padre como: “JUAN ALFONSO PALOMINO, IDENTIFICADO CON D.N.I. NÚMERO CABRERA TRUJILLO”, siendo lo correcto: “ALFONSO JUAN 08678272. SE CONVOCA A LOS ACREEDORES CABRERA TRUJILLO”. PARA LA PRESENTACIÓN DE LOS DOCUMEN",
+    "output": "Información extraída del aviso de disolución:\n\nTipo de documento: Disolución y Liquidación\nEmpresa: DNI DACIÓN DE MINERA SONCCO AMOT EMPRESA\nRUC: No especificado\nFecha de publicación: 2025-06-14\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso legal de disolución publicado en el Diario El Peruano. Identifica: tipo de documento, empresa, RUC y fecha.",
+    "input": "disolución y liquidación de la sociedad, nombrando liquidador ASGOSTUDIO PERU S.A.C., con RUC.N-20613126890, LA TRANSFORMACION DE “INSTITUTO comunica que la",
+    "output": "Información extraída del aviso de disolución:\n\nTipo de documento: Disolución y Liquidación\nEmpresa: ASGOSTUDIO PERU S.A.C.\nRUC: No especificado\nFecha de publicación: 2025-11-15\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de remate judicial. Identifica: ubicación, valor base y fecha.",
+    "input": "Remates Bienes Muebles B. Edictos Matrimoniales 23 • Cortes Superiores de Justicia • Juzgados Especializados • Familiar • Prescripción Adquisitiva • Rectificación de Areas C. Concesiones, Servidumbres y E.I.A. 24 Juzgados de Familia • Juzgados de Paz Letrados o Linderos • Sucesión Intestada • Titulos Supletorios • Reconocimiento de Unión de Hecho • Curatela Especial AVISOS DE CURSO LEGAL A. Contrataciones del Estado A. A D visos iversos AVISO DE SANEAMIENTO FÍSICO LEGAL AVISO DE SANEAMIENTO FÍSICO LEGAL Dirección Regional de Educación Cajamarca – Unidad de Gestión Educativa Local Chota, de con",
+    "output": "Información extraída del aviso de remate:\n\nTipo de documento: Remate Judicial\nUbicación del inmueble: nan\nValor base: nan\nFecha de remate: 2025-06-13\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\ndisolución de VIDAL FOODS ESTADO DE CUENTA (SOLES PERUANOS) DE ACCIONISTAS CELEBRADA EL 27 DE JUNIO S.A.C., nombrándose como liquidador al Sr. Jorge DEL 2025, SE ACORDO LA\n\nPregunta: ¿Qué tipo de documento legal es este?",
+    "input": "",
+    "output": "Este es un aviso de disolución y liquidación de sociedad."
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Empresa nan disuelta, RUC nan, fecha 2025-11-07",
+    "output": "AVISO DE DISOLUCIÓN Y LIQUIDACIÓN\n\nDe conformidad con el artículo 412 de la Ley General de Sociedades, se comunica:\n\nEmpresa: nan\nRUC: nan\nFecha de disolución: 2025-11-07\n\nPublicado en el Diario Oficial El Peruano conforme a ley.\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nremate con el mismo precio base. En este caso, el adjudicatario perderá la suma depositada en calidad de oblaje y será impedido de participar 005-2440367-1 como postor en el nuevo\n\nPregunta: ¿Dónde está ubicado el inmueble?",
+    "input": "",
+    "output": "El inmueble está ubicado en nan."
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nremates (10:00 horas). BIEN INMUEBLE, REALIZAR PREVIAMENTE LAS VERIFICACIONES Y CONSTATACIONES, REVISAR ZONIFICACIÓN Y/O LIMITACIONES Y/O OBLIGACIONES DE ORDEN MUNICIPAL Y/O REGLAMENTO El postor realizará su oferta mediante carta (u hoja de postura) que será entregada en sobre cerrado. En el INTERNO DE LOS INMUEBLES QUE LES INTERESE ADJUDICARSE Y EN GENERAL CUALQUIER exterior del sobre se consignará como datos referenciales: i) el bien ofertado y/o número de lote, ii) nombre, SITUACIÓN E INFORMACIÓN RELACIONADA A LOS BIENES MATERIA DE\n\nPregunta: ¿Dónde está ubicado el inmueble?",
+    "input": "",
+    "output": "El inmueble está ubicado en nan."
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Empresa INMOBILIARIA Y NEGOCIACIONES ANDINA S.A.C disuelta, RUC 20601641152.0, fecha 2025-10-31",
+    "output": "AVISO DE DISOLUCIÓN Y LIQUIDACIÓN\n\nDe conformidad con el artículo 412 de la Ley General de Sociedades, se comunica:\n\nEmpresa: INMOBILIARIA Y NEGOCIACIONES ANDINA S.A.C\nRUC: 20601641152.0\nFecha de disolución: 2025-10-31\n\nPublicado en el Diario Oficial El Peruano conforme a ley.\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nDISOLUCIÓN Y LIQUDACIÓN EDICTO EDICTO EDICTO RECTIFICACIÓN DE PARTIDA: EXP. 1032-2025-AM- La Oficina Registral San Borja ha recibido la solicitud Ante la OR Callao - RENIEC, EDWIN ROBERTO “CONFECCIONES ELTEX E.I.R.L.” EN ORMIR. DORIS NERI SEGOVIA PAREDES, identificada mediante la cual Pilar Amparo Tapia Herbozo, VEGA ORTEGA, con DNI N° 25763114, mediante LIQUIDACIÓN, CON RUC Nº 20600610407, con DNI N° 07448038, en calidad de madre, solicita la identificada con D.N.I. N° 07469244, con Expediente el proveido N° 001482-2025/DSR/ORCALLAO, CON DOMICILIO EN JR. MARIA PARADO DE Rectificación Administ\n\nPregunta: ¿Qué RUC tiene la empresa?",
+    "input": "",
+    "output": "La empresa es DISTRITO DE SA."
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso legal de disolución publicado en el Diario El Peruano. Identifica: tipo de documento, empresa, RUC y fecha.",
+    "input": "DISOLUCION Y LIQUIDACION DE LA EMPRESA CONSTRUCTORA VIZU HOLIDAY S.A.C, DESIGNANDOSE COMO LIQUIDADORA A SARITA LUISA AQUINO RAMIREZ, CON DNI N° 43928330. LIMA, 15 DE SETIEMBRE DEL 2025. SARITA LUISA AQUINO RAMIREZ D.N.I. N° 43928330 - LIQUIDADORA 1-1340442-200 EDICTO La Oficina Registral San Borja ha recibido la soli- citud mediante la cual Freddy Antonio Saiz Flores, identificado con D.N.I. N° 40637305, con Expediente N° 2729-2025-AM-ORSB solicita la Rectificación de su Acta de Nacimiento N° 1002765908 (Acta RENIEC) en el sentido que el nombre de la madre del titular se ha consignado como: Se",
+    "output": "Información extraída del aviso de disolución:\n\nTipo de documento: Disolución y Liquidación\nEmpresa: CONSTRUCTORA VIZU HOLIDAY S.A.C\nRUC: No especificado\nFecha de publicación: 2025-09-24\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Remate ubicación nan, base nan, fecha 2025-09-20",
+    "output": "AVISO DE REMATE JUDICIAL\n\nPor disposición judicial, se convoca a remate público:\n\nBien inmueble ubicado en: nan\nValor base: nan\nFecha de remate: 2025-09-20\n\nPublicado en el Diario Oficial El Peruano.\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de remate judicial. Identifica: ubicación, valor base y fecha.",
+    "input": "SUBASTA PÚBLICA PRESENCIAL N° 001-2025-CP- En cumplimiento y para los fines establecidos en En cumplimiento y para los fines establecidos en el artículo 245° de la Ley N° 26702- Ley General En cumplimiento y para los fines establecidos en OLAP-OGAF/MDS. APROBADA POR ACUERDO DE el artículo 245° de la Ley N° 26702- Ley General del Sistema Financiero y del Sistema de Seguros y el artículo 245° de la Ley N° 26702- Ley General CONCEJO MUNICIPAL N° 044-2025-CM-MDS/C del Sistema Financiero y del Sistema de Seguros Orgánica de la Superintendencia de Banca y Seguros del Sistema Financiero y del Sistema",
+    "output": "Información extraída del aviso de remate:\n\nTipo de documento: Remate Judicial\nUbicación del inmueble: nan\nValor base: nan\nFecha de remate: 2025-07-21\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\ndisolución S A E C CI C O O N M IS U T N A I S C A D E Q U F E E CH PO A R 1 8 J U D N E T A J U G NI E O N E D R E A L 2 02 D 5 E , departamento de Cajamarca. de titularidad. y liquidación de GRUPO HICA SAC. con RUC Nº SE ACORDÓ LA\n\nPregunta: ¿Cuál es el nombre de la empresa disuelta?",
+    "input": "",
+    "output": "La empresa es GRUPO HICA SAC.."
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Junta de nan, fecha 2025-04-01",
+    "output": "CONVOCATORIA A JUNTA GENERAL DE ACCIONISTAS\n\nSe convoca a los señores accionistas de:\n\nEmpresa: nan\nRUC: nan\nFecha de junta: 2025-04-01\n\nPublicado conforme al artículo 43 de la Ley General de Sociedades.\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso legal de disolución publicado en el Diario El Peruano. Identifica: tipo de documento, empresa, RUC y fecha.",
+    "input": "DISOLUCIÓN Y LIQUIDACIÓN distrito Amarilis, provincia y registral de Huánuco Nº 01 titularidad En cumplimiento de lo dispuesto en el artículo departamento de Huánuco. N° 412 de la Ley General de Sociedades, se Predio de Jancao Parcela hace conocimiento público que, mediante 12 B, Área 737.44 m2, 02008715 oficina Reservorio Independización con cambio de",
+    "output": "Información extraída del aviso de disolución:\n\nTipo de documento: Disolución y Liquidación\nEmpresa: nan\nRUC: No especificado\nFecha de publicación: 2025-09-14\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de convocatoria a junta de accionistas. Identifica: empresa, RUC y fecha.",
+    "input": "Junta General de Accionistas • Curatela Especial AVISOS DE CURSO LEGAL A. Contrataciones del Estado A. A D visos iversos Ministerio PERÚ de Transportes Viceministerio Provías de Transportes Nacional y Comunicaciones El Proyecto Especial de Infraestructura de Transporte Nacional – PROVIAS NACIONAL del Ministerio de Transportes y Comunicaciones, con domicilio Legal en Jr. Zorritos Nº 1203 - Lima 01, en el marco de lo establecido en el art. 7 del Decreto Legislativo N° 1192 y sus modificatorias, que aprueba la Ley Marco de Adquisición y Expropiación de Inmuebles, Transferencia de Inmuebles de pro",
+    "output": "Información extraída del aviso de junta:\n\nTipo de documento: Convocatoria a Junta General de Accionistas\nEmpresa: nan\nRUC: No especificado\nFecha de junta: 2025-05-08\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nremate hasta - Texto Único Ordenado del Código Tributario aprobado mediante D.S. Nº 133-2013-EF y normas antes de la hora de cada convocatoria. modificatorias. Las posturas que se presenten en sobre cerrado DEBEN PRESENTARSE CON LOS DATOS SOLICITADOS - Reglamento del Procedimiento de Cobranza Coactiva, aprobado por la Resolución de Superintendencia Nº COMPLETOS Y SIN BORRONES, TACHADURAS, ENMENDADURAS O SIMILARES, con un mismo color de 216-2004/SUNAT y normas modificatorias. lapicero, y deberán ser legibles, pues de lo contrario no se considerarán como válidas. - Reglamento de la Ley del Marti\n\nPregunta: ¿Dónde está ubicado el inmueble?",
+    "input": "",
+    "output": "El inmueble está ubicado en nan."
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Empresa nan disuelta, RUC nan, fecha 2025-06-30",
+    "output": "AVISO DE DISOLUCIÓN Y LIQUIDACIÓN\n\nDe conformidad con el artículo 412 de la Ley General de Sociedades, se comunica:\n\nEmpresa: nan\nRUC: nan\nFecha de disolución: 2025-06-30\n\nPublicado en el Diario Oficial El Peruano conforme a ley.\n"
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Empresa CARMEN LUCIA ESTEBAN PASAC disuelta, RUC nan, fecha 2025-08-25",
+    "output": "AVISO DE DISOLUCIÓN Y LIQUIDACIÓN\n\nDe conformidad con el artículo 412 de la Ley General de Sociedades, se comunica:\n\nEmpresa: CARMEN LUCIA ESTEBAN PASAC\nRUC: nan\nFecha de disolución: 2025-08-25\n\nPublicado en el Diario Oficial El Peruano conforme a ley.\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso legal de disolución publicado en el Diario El Peruano. Identifica: tipo de documento, empresa, RUC y fecha.",
+    "input": "disolución de identificada con DNI Nº73900410. MACCOILLO”. ‘Victoriano Tiburcio’. Pide que: Se suprima los la sociedad y el inicio del proceso de liquidación, Lima, 11 de noviembre del 2025 Se efectúa la publicación prevista en el artículo 73° del nombres ‘Victoriano Tiburcio’ y se le autorice designándose como liquidador al señor Manuel 002-2458903-1 LIQUIDADORA D.S. N° 015-98-PCM. a llevar como único nombre ‘Victor’. Debiendo E Do n c ri u q m u e e n t J o o N rg ac e i o P na é l r d e e z Id S e u n á ti r d e a z d , N i o d . e 0 n 7 t 8 if 1 ic 9 a 5 d 26 o . con EDICTO San Borja, F 2",
+    "output": "Información extraída del aviso de disolución:\n\nTipo de documento: Disolución y Liquidación\nEmpresa: nan\nRUC: No especificado\nFecha de publicación: 2025-11-17\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Remate ubicación nan, base nan, fecha 2025-09-08",
+    "output": "AVISO DE REMATE JUDICIAL\n\nPor disposición judicial, se convoca a remate público:\n\nBien inmueble ubicado en: nan\nValor base: nan\nFecha de remate: 2025-09-08\n\nPublicado en el Diario Oficial El Peruano.\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso legal de disolución publicado en el Diario El Peruano. Identifica: tipo de documento, empresa, RUC y fecha.",
+    "input": "disolución y liquidación de la Sociedad, decir: Juan De Vettori Revilla. Hijo de don Giovanni designando como liquidador al señor Jerico De Vettori Cavalet y de doña María Aurora Emperatriz Augusto Hernandez Lam, identificado con DNI Revilla Rubio. Nro. 76472014. Se hace de conocimiento público del trámite ya incoado, Asimismo, se acordó que la sociedad utilizará, a para los fines de ley. Los interesados tendrán quince días partir de la fecha de celebrada la junta, la para hacer valer sus derechos. denominación VOLCOMCAPITAL PETIT Dado en el Tribunal Interdiocesano de Cajamarca a 15 de THOUARS",
+    "output": "Información extraída del aviso de disolución:\n\nTipo de documento: Disolución y Liquidación\nEmpresa: THOUARS S.A.C.\nRUC: No especificado\nFecha de publicación: 2025-08-19\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nJunta General – REG. 300 Informes: 962809202 exterior en representación de la Entidad; por el contexto y organización empresarial de los anfitriones, de Accionistas que tendrá lugar el día 20 de setiembre LUIS ALBERTO FRISANCHO RAMIREZ los avances tecnológicos que se aplican tanto para el agua potable y saneamiento, siendo necesario del 2,025 a horas10:00 a.m., en la sede social GERENTE MUNICPAL adquirir esas experiencias. de la empresa, sito en Mz. “L” Lote.1 Parcelación 081-2435435-1 Residencial La Ensenada, distrito de Puente Piedra, Que, mediante ACUERDO 01-27-2025, EL DIRECTORIO ACUERDA P\n\nPregunta: ¿Qué empresa convoca a junta?",
+    "input": "",
+    "output": "La empresa es nan."
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Empresa OPTIMAL disolver la Empresa disuelta, RUC nan, fecha 2025-07-04",
+    "output": "AVISO DE DISOLUCIÓN Y LIQUIDACIÓN\n\nDe conformidad con el artículo 412 de la Ley General de Sociedades, se comunica:\n\nEmpresa: OPTIMAL disolver la Empresa\nRUC: nan\nFecha de disolución: 2025-07-04\n\nPublicado en el Diario Oficial El Peruano conforme a ley.\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de convocatoria a junta de accionistas. Identifica: empresa, RUC y fecha.",
+    "input": "Junta General de Accionistas de Fondo Comas, 14 de julio del 2025 Talento S.A., de fecha 16 de julio de 2025, aprobó JOB ADAN MARCOS RAMIREZ la reducción del capital social por devolución Jefe (e) Oficina Registral Comas III Registro Nacional de Identificación y Estado Civil de aportes, en la suma de S/2’130,000.00, es 002-2426397-1 decir de la suma de S/6’827,726.00 a la suma de S/4’697,726.00, como consecuencia de la EDICTO amortización de 2’130,000 acciones de un valor RECTIFICACIÓN DE PARTIDA: Exp. N° 1955-2025-AM- nominal de S/1.00 cada una y su entrega a sus ORSNBOR (16/06/2025), ROSA IS",
+    "output": "Información extraída del aviso de junta:\n\nTipo de documento: Convocatoria a Junta General de Accionistas\nEmpresa: nan\nRUC: No especificado\nFecha de junta: 2025-08-13\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de remate judicial. Identifica: ubicación, valor base y fecha.",
+    "input": "REMATE PUBLICO, en PRIMERA, SEGUNDA y Normas Técnicas Peruanas (NTP)? REPRESENTACIONES OLEAGINOSAS TERCERA CONVOCATORIA, el inmueble ubicado en Avenida General Garzon Número 2206 - VICTORIA S.A.C. 2208, Distrito de Jesús María, Provincia y Departamento de Lima, cuya área, linderos y medidas AVISO DE DISCUSIÓN PÚBLICA perimétricas obran inscritas en la partida electrónica N.° 40721169 del Registro de la Propiedad De conformidad con la Ley General de Sociedades N° 000015-2025-INACAL/DN Inmueble de Lima. y el Estatuto Social, se convoca a los señores La Dirección de Normalización del Instituto ac",
+    "output": "Información extraída del aviso de remate:\n\nTipo de documento: Remate Judicial\nUbicación del inmueble: nan\nValor base: nan\nFecha de remate: 2025-07-22\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nJunta General de Se efectúa la presente publicación de conformidad con el Superintendencia de Banca y Seguros – (DERBIOTEC S.A.C.), COMUNICA QUE Accionistas de PALO ALTO S.A.C., celebrada artículo 73° del Decreto Supremo 015-98-PCM. informamos, para todos los efectos a que se POR ACUERDO DE\n\nPregunta: ¿Qué empresa convoca a junta?",
+    "input": "",
+    "output": "La empresa es nan."
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Empresa GALVEZ VDA DE MERINO. INTEGRAL S.A.C. disuelta, RUC nan, fecha 2025-10-25",
+    "output": "AVISO DE DISOLUCIÓN Y LIQUIDACIÓN\n\nDe conformidad con el artículo 412 de la Ley General de Sociedades, se comunica:\n\nEmpresa: GALVEZ VDA DE MERINO. INTEGRAL S.A.C.\nRUC: nan\nFecha de disolución: 2025-10-25\n\nPublicado en el Diario Oficial El Peruano conforme a ley.\n"
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Remate ubicación nan, base nan, fecha 2025-10-22",
+    "output": "AVISO DE REMATE JUDICIAL\n\nPor disposición judicial, se convoca a remate público:\n\nBien inmueble ubicado en: nan\nValor base: nan\nFecha de remate: 2025-10-22\n\nPublicado en el Diario Oficial El Peruano.\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nJunta General de Accionistas de INMOBILIARIA Y la Ley General de Sociedades. La reducción 3. Retribución del directorio. acta de nacimiento N°3002840984, en el sentido que se ADMINISTRADORA CAPITALINA S.A., con RUC solo afecta a uno de los accionistas, lo que 4. Pronunciamiento sobre la gestión social consignó erróneamente el nombre de la madre en el cuerpo 20101539301, reunida el 12 de Junio del 2025, ha fue decidido por unanimidad en la junta. y los resultados económicos del ejercicio del acta, que dice: “KATHERINE CALDERON BAZALDUA” y resuelto declarar la disolución de la Sociedad, y En con\n\nPregunta: ¿Qué empresa convoca a junta?",
+    "input": "",
+    "output": "La empresa es nan."
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de remate judicial. Identifica: ubicación, valor base y fecha.",
+    "input": "subastado más I.G.V. BORJA, PROVINCIA Y DEPARTAMENTO LIMA; CUYO DOMINIO CORRE INSCRITO EN LA PARTIDA ELECTRÓNICA N° 12158189 DEL REGISTRO DE PROPIEDAD INMUEBLE DE LA ZONA REGISTRAL N° 12. FORMA DE PAGO: Efectivo o cheque certificado o de gerencia a la orden de SUNAT/BANCO DE LA IX, SEDE LIMA, OFICINA REGISTRAL LIMA, con los siguientes gravámenes: 1) Hipoteca a favor del BANCO NACIÓN, en Soles (S/). BBVA CONTINENTAL hasta por el monto de US$ 206,000.00 del 14/05/2021; 2) Embargo expedido por la 13. GRAVÁMENES: Los que se indican. Una vez adjudicados los bienes registrables, se ordenará, de SUNA",
+    "output": "Información extraída del aviso de remate:\n\nTipo de documento: Remate Judicial\nUbicación del inmueble: nan\nValor base: nan\nFecha de remate: 2025-04-18\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso legal de disolución publicado en el Diario El Peruano. Identifica: tipo de documento, empresa, RUC y fecha.",
+    "input": "disolución y liquidación de 20547646348, nombrándose como liquidador al Sr. empresa “SM GLOBAL LOGISTIC S.A.C.” con RUC 20611960221, SURGOURMET S.A.C., con RUC N° 20507661441, Sergio Teófilo Landeo Castro, identificado con DNI 08063660, de conformidad con el artículo 412 nombrado liquidador a Frank Marlo Campos Diaz con DNI N° nombrando como liquidador a JAIME MANUEL de la Ley General de Sociedades. 45847089, lo que se pone en conocimiento conforme a los CUCHO ANTON, identificado con DNI N° 07331029. Lima, 30 de mayo del 2025. dispuesto el artículo 80° y 82° de la ley N° 21621. Lima, 10 de Jun",
+    "output": "Información extraída del aviso de disolución:\n\nTipo de documento: Disolución y Liquidación\nEmpresa: SM GLOBAL LOGISTIC S.A.C.\nRUC: 20611960221.0\nFecha de publicación: 2025-06-14\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de convocatoria a junta de accionistas. Identifica: empresa, RUC y fecha.",
+    "input": "Junta General de Accionistas celebrada el 30 de junio de 2025, INMOBILIARIA BON VIVANT S.A.C. EN LIQUIDACIÓN (la “Sociedad”) acordó por unanimidad reducir su capital social en la suma de S/ 303,960.00, bajo la modalidad de devolución de aportes a valor nominal, en favor de los accionistas José Orlando Vela Ortega y Alicia Leonarda Vela Ortega. En ese sentido, el capital social de la Sociedad se reducirá de S/ 596,000.00 a S/ 292,040.00, representado por 292,040 acciones comunes, con un valor nominal de S/ 1.00 cada una, totalmente suscritas y pagadas. La reducción se efectuará mediante la amor",
+    "output": "Información extraída del aviso de junta:\n\nTipo de documento: Convocatoria a Junta General de Accionistas\nEmpresa: nan\nRUC: No especificado\nFecha de junta: 2025-07-21\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nremate: para el 04 de INFRACTOR : ALEXANDER KENJI ALANOCA CUNURANA agosto del 2025, a las 01:00 p.m. DOCUMENTO DE : DNI N° 46689285 IDENTIFICACIÓN GRAVÁMENES: En el asiento 00004: INSCRIPCIÓN DE HIPOTECA. – Se constituye hipoteca a favor de RESOLUCION : 000114-2025-SUNAT/3G0800 PATRIMONIO EN FIDEICOMISO ACP RTC – DECRETO LEGISLATIVO 861, TÍTULO XI hasta por la suma ACTA DE INCAUTACION : 172-0204-2025-000288 de US$. 48,293.24 dólares americanos. Así consta en la Escritura Pública de fecha 26/05/2023, ante el DETERMINACIÓN: ARTÍCULO ÚNICO: RECTIFICAR el ARTÍCULO SEGUNDO de la parte resolutiva de\n\nPregunta: ¿Cuál es el valor base del remate?",
+    "input": "",
+    "output": "El valor base es nan."
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Junta de LUCIA ESTEBAN PASAC, fecha 2025-09-06",
+    "output": "CONVOCATORIA A JUNTA GENERAL DE ACCIONISTAS\n\nSe convoca a los señores accionistas de:\n\nEmpresa: LUCIA ESTEBAN PASAC\nRUC: nan\nFecha de junta: 2025-09-06\n\nPublicado conforme al artículo 43 de la Ley General de Sociedades.\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de convocatoria a junta de accionistas. Identifica: empresa, RUC y fecha.",
+    "input": "Junta General San Martín de Porres, 28/08/2025 San Borja, 29 de agosto del 2025. MARILIN MAUREEN CORDOVA FABIAN de Accionistas de fecha 08/09/2025, se acordó y FIRMADO DIGITALMENTE JEFE DE LA OFICINA (e) – SAN BORJA aprobó la Disolución y Liquidación de la Empresa Jefe N d A e N O C fi Y c i M na IL R A e G g R is O tr S a l N S U a N n U M R a A r t Q ín U d IN e D P E o rres MAR D IL o IN cu M m A en U t R o E fir E m N a C do O d R ig D i O ta V lm A e F n A te BIAN 002-24 R 3 E 6 G 81 IS 6- T 1 RO NACIONAL DE IDENTIFICACIÓN Y ESTADO CIVIL d H e A s C ig K n M án E d T o R se IX c o S m .A",
+    "output": "Información extraída del aviso de junta:\n\nTipo de documento: Convocatoria a Junta General de Accionistas\nEmpresa: nan\nRUC: No especificado\nFecha de junta: 2025-09-11\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Remate ubicación nan, base nan, fecha 2025-07-02",
+    "output": "AVISO DE REMATE JUDICIAL\n\nPor disposición judicial, se convoca a remate público:\n\nBien inmueble ubicado en: nan\nValor base: nan\nFecha de remate: 2025-07-02\n\nPublicado en el Diario Oficial El Peruano.\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nJunta General de fecha 12 de junio de 2025, CONTIGO ABA E.I.R.L., por haberse consignado erróneamente el nombre de 1010621248, por haberse consignado erróneamente Accionistas de ERGON PERÚ S.A.C. (la Identificada con R.U.C. N° 20609127563, se la madre como: “JESUS MIRANO PAUCAR”, siendo lo el nombre del padre como: “OSWALDO DÍAZ “Sociedad”) de fecha 11 de junio de 2025, acordó su DISOLUCIÓN y posterior LIQUIDACIÓN, correcto: “JESÚS MIRANO PAUCCAR”. CARASSA”, siendo lo correcto: “VALENTÍN se ha acordado reducir el capital social de OSWALDO DÍAZ CARASSA”. nombrándose como liquidadora a la señora\n\nPregunta: ¿Cuándo se realizará la junta?",
+    "input": "",
+    "output": "La fecha es 2025-06-13."
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nJunta General de Accionistas del 07 julio de 2025 de “ARTE N° 1005067740, por haberse consignado erróneamente los nombrándose como liquidador al señor Marcial Alexander Cruces 01.07.2025, la ciudadana JESSICA MARIELA Y ENTRETENIMIENTO S.A.C.” con (RUC 20605936165), acordó nombres de los Padres como: “HUGO ALEJANDRO SOTIL – Uyhua, identificado con DNI N° 45189845. s R c u o O n S D D A is N o C I lu O 4 c 5 R ió 5 Z n 4 O 4 y 2 M 1 L 1 A iq M u A id N ac I, i ó d n e , n n a o c m io b n rá a n lid d a o d s e p e L r i u q a u n id a a , d i o d r e n a t l i fic S a r d ta o . G A D L E U E I\n\nPregunta: ¿Qué empresa convoca a junta?",
+    "input": "",
+    "output": "La empresa es nan."
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nRemate (Garantía): Arras: como mínimo el equivalente al 30% del monto de adjudicación. El Nro. 0810070090257 hasta por la suma de S/ 200,000.00 Valor de tasación: CUARENTA Y SEIS MIL cálculo de las arras exigibles incluyen el IGV cuando se trate de operaciones gravadas con dicho impuesto. Lima, viernes 11 de julio de 2025 I EL PERUANO BOLETÍN OFICIAL 3 Forma de pago: En efectivo, en cheque de gerencia o en cheque certificado girado a nombre de SUNAT/ custodia de los bienes, incluyendo aquellos que en representación de la SUNAT actúen como depositarios, BANCO DE LA NACIÓN (Plaza Piura), en mone\n\nPregunta: ¿Cuándo se realizará el remate?",
+    "input": "",
+    "output": "La fecha es 2025-07-11."
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nJunta General de Accionistas de fecha 4 de “INDUSTRIAS 3M PACKING E.I.R.L.” POR TACNA II S.A. noviembre de 2025, acordó reducir el Capital “INDUSTRIAS 3M PACKING S.A.C.” RUC N° 20546970079 Social actual que es de S/ 617,618,735.00 2.APROBAR LA INCORPORACIÓN DE UNA Se convoca a\n\nPregunta: ¿Cuál es el RUC de la empresa?",
+    "input": "",
+    "output": "La empresa es nan."
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de convocatoria a junta de accionistas. Identifica: empresa, RUC y fecha.",
+    "input": "Junta General de Accionistas que se realizará el día 25 de noviembre de 2025, en el domicilio DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO 22° DEL DECRETO SUPREMO N° de la Sociedad, sito en Avenida Néstor Gambeta Nº 4769, Callao, Provincia Constitucional del 014-2022-MIDAGRI, SE CUMPLE CON NOTIFICAR LA RESOLUCIÓN DIRECTORAL QUE DISPONE EL Callao y departamento de Lima, a las 10:00 horas. OTORGAMIENTO DE LOS TITULOS DE PROPIEDAD A FAVOR DE 416 POSEEDORES CALIFICADOS La Agenda a tratar será la siguiente: COMO APTOS-DIRECCIÓN REGIONAL DE AGRICULTURA HUÁNUCO: - Ratificación de aprobación de la M",
+    "output": "Información extraída del aviso de junta:\n\nTipo de documento: Convocatoria a Junta General de Accionistas\nEmpresa: nan\nRUC: No especificado\nFecha de junta: 2025-11-14\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nDISOLUCIÓN Y LIQUIDACIÓN MEDIANTE ACTA DE DECISI ÓN DE TITULAR DE FECHA 28 DE OCTUBRE DE 2025, LA TITULAR, ACORDÓ Y DECIDIÓ LA\n\nPregunta: ¿En qué fecha se publicó la disolución?",
+    "input": "",
+    "output": "La fecha es 2025-11-11."
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso legal de disolución publicado en el Diario El Peruano. Identifica: tipo de documento, empresa, RUC y fecha.",
+    "input": "disolución y liquidación de plazo y demás términos y condiciones se encuentran Victoria Global Opportunities S.A.C., sociedad ANULACIÓN, MODIFICACIONES Y/O CAMBIOS DE LOS TEXTOS Y/O regulados en el documento antes indicado. peruana, identificada con RUC Nº 20517570177, ARTES DE LAS PUBLICACIONES OFICIALES DEL BOLETÍN OFICIAL, habiéndose designado como liquidadora de la Se publica el presente aviso para fines de lo Sociedad a la señora Mariella Orocia Minetti SE RECIBIRÁN HASTA LAS 14:00 HORAS DE LUNES A VIERNES, establecido en el artículo 245 de la Ley N° 26702, Vega, identificada con DNI Nº 0",
+    "output": "Información extraída del aviso de disolución:\n\nTipo de documento: Disolución y Liquidación\nEmpresa: S.A.C.\nRUC: 20517570177.0\nFecha de publicación: 2025-04-19\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nRemate, entregará en calidad de Arras al Martillero Público el 30% del monto adjudicado, en cheque GARANTÍAS N° 0530080000008 OBJETO:\n\nPregunta: ¿Dónde está ubicado el inmueble?",
+    "input": "",
+    "output": "El inmueble está ubicado en nan."
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Junta de nan, fecha 2025-11-07",
+    "output": "CONVOCATORIA A JUNTA GENERAL DE ACCIONISTAS\n\nSe convoca a los señores accionistas de:\n\nEmpresa: nan\nRUC: nan\nFecha de junta: 2025-11-07\n\nPublicado conforme al artículo 43 de la Ley General de Sociedades.\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de convocatoria a junta de accionistas. Identifica: empresa, RUC y fecha.",
+    "input": "JUNTA GENERAL A LOS ACCIONISTAS DE 1 PAX y Departamento de Lima, lugar donde se encuentra ubicado SILLA GARRO - ESPECIALISTA LEGAL - 14º Juzgado Civil PIERINA YUCRA MESTAS, (11) Y THIAGO MIGUEL AUGUS- PERU S.A.C. LA MISMA QUE SE CELEBRARÁ EN PRIMERA el vehículo. LOS POSTORES: Oblarán no menos del diez por Subespecialidad Comercial - CORTE SUPERIOR DE JUSTICIA TO YUCRA MESTAS, (8) y en contra de los posibles herederos CONVOCATORIA EL DIA VIERNES 30 DE MAYO DE 2025, A ciento del valor de la tasación en efectivo o cheque de geren- DE LIMA.- Dr. JOSE CARLOS MELENDEZ LEÓN - ABOGADO ciertos é incier",
+    "output": "Información extraída del aviso de junta:\n\nTipo de documento: Convocatoria a Junta General de Accionistas\nEmpresa: nan\nRUC: No especificado\nFecha de junta: 2025-05-19\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de convocatoria a junta de accionistas. Identifica: empresa, RUC y fecha.",
+    "input": "JUNTA GENERAL DE ACCIONISTAS de: “05/12/1938” a “03/12/1938”, lo cual se pone Acta de Nacimiento N° 1002306662 perteneciente a (24.09.2025) solicitando la actualización de datos en el CORPORACION TACNA S.A. en conocimiento, a fin de quienes tengan motivos FROILÁN OSWALDO OSORIO RUIZ, en el sentido que Acta de Nacimiento N° 66565436 de RENZO STEVE RUC. Nº 20520992937 para oponerse puedan manifestarse en la forma se consignó erróneamente el nombre de la madre como: INCARROCA CCALLOHUANCA, en el extremo referido y el plazo previsto en el Artículo 74º del D.S. “FLOR ELVIRA ASUNCIONA RUIZ DE OSORIO",
+    "output": "Información extraída del aviso de junta:\n\nTipo de documento: Convocatoria a Junta General de Accionistas\nEmpresa: nan\nRUC: No especificado\nFecha de junta: 2025-10-31\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso legal de disolución publicado en el Diario El Peruano. Identifica: tipo de documento, empresa, RUC y fecha.",
+    "input": "disolución y liquidación de KALLPA S.R.L.”, CON RUC N° 20605023348, dicha sociedad, nombrándose como liquidador al SERÁ TRANSFORMADA A SOCIEDAD ANÓNIMA CERRADA CON LA NUEVA DENOMINACIÓN señor Roberto Fischman Kalincausky, identificado con DNI N° 08242055. “CENTRO DE INSPECCIÓN KALLPA S.A.C.” LIMA, 27 DE MARZO DE 2025. Lima, 31 de marzo de 2025. CENTRO DE INSPECCION KALLPA S.R.L. Roberto Fischman Kalincausky LIQUIDADOR JARAMILLO DE LA CRUZ MERLY 002-2385540-1 GERENTE GENERAL GRIFO STOP S.A. EN LIQUIDACIÓN Ministerio Jirón Zorritos 1203 - Lima - Perú PERÚ de Transportes V de ic T e r m a i n n s",
+    "output": "Información extraída del aviso de disolución:\n\nTipo de documento: Disolución y Liquidación\nEmpresa: CENTRO DE INSPECCIÓN KALLPA S.A.C.\nRUC: 20605023348.0\nFecha de publicación: 2025-04-02\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso legal de disolución publicado en el Diario El Peruano. Identifica: tipo de documento, empresa, RUC y fecha.",
+    "input": "disolución Lima, 5 de noviembre de 2025. EDICTO e co rr m ón o e : a “ m JU e A nt N e e P l E n D om R b O r e B d R e I l N p G ad A r S e ” d , e d l e a b t i it e u n la d r o d e d l e a c c i t r a : S y .A liq .C ui . d , a c c o i n ó n R U de C l N a ° s 2 o 0 c 6 ie 0 d 2 a 3 d 1 : 0 1 G 1 U 7 T , R no A m D b E r á P nd E o R s U e 002-2456392-1 EL DIRECTORIO SUB DIRECCIÓN DE RECURSOS REGISTRALES CIVILES, “JUAN PEDRO BRINGAS MARQUEZ”. el ciudadano LUIS ALBERTO SAMANIEGO LOERO, liquidador al Señor CARLOS MANUEL VARGAS EDICTO Se efectúa la publicación según lo previsto en el ALENCAST",
+    "output": "Información extraída del aviso de disolución:\n\nTipo de documento: Disolución y Liquidación\nEmpresa: LUIS ALBERTO SA\nRUC: No especificado\nFecha de publicación: 2025-11-10\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso legal de disolución publicado en el Diario El Peruano. Identifica: tipo de documento, empresa, RUC y fecha.",
+    "input": "DISOLUCIÓN Y LIQUIDACIÓN TRANSFORMACIÓN Ante la Sub Dirección de Depuración Registral y Electoral, MARITZA CABELLO MEJIA. Se efectúa la publicación Por",
+    "output": "Información extraída del aviso de disolución:\n\nTipo de documento: Disolución y Liquidación\nEmpresa: nan\nRUC: No especificado\nFecha de publicación: 2025-04-08\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Formatea la siguiente información en un aviso legal profesional, siguiendo la estructura estándar del Diario El Peruano.",
+    "input": "Remate ubicación nan, base nan, fecha 2025-10-24",
+    "output": "AVISO DE REMATE JUDICIAL\n\nPor disposición judicial, se convoca a remate público:\n\nBien inmueble ubicado en: nan\nValor base: nan\nFecha de remate: 2025-10-24\n\nPublicado en el Diario Oficial El Peruano.\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nREMATE: 1) Martillero Público Sr. NECIOSUP FABERIO JOSE LUIS, para los Coactivo: Juan Carlos Auccapuro Cueva; Auxiliar Coactivo: Renzo Wilfredo Castillo Roque, Expediente\n\nPregunta: ¿Cuál es el valor base del remate?",
+    "input": "",
+    "output": "El valor base es nan."
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso legal de disolución publicado en el Diario El Peruano. Identifica: tipo de documento, empresa, RUC y fecha.",
+    "input": "DISOLUCIÓN Y LIQUIDACIÓN GESTORA S.A. EN LIQUIDACIÓN OFICINA REGISTRAL RENIEC SAN MARTIN DE 002-2432897-1 EL LIQUIDADOR RUC No. 20612172944 002-2432929-1",
+    "output": "Información extraída del aviso de disolución:\n\nTipo de documento: Disolución y Liquidación\nEmpresa: DISOLUCIÓN Y LIQUIDACIÓN GESTORA S.A.\nRUC: No especificado\nFecha de publicación: 2025-09-03\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\ndisolución y LIQUIDACION DE LA SOCIEDAD DENOMINADA DENOMINADA “RISTORANTE TUMBES S.A.C.”, social en acciones -con la incorporación de liquidación de la sociedad; Nombrándose como Liquidador “R CLUB S.A.C.”, DESIGNANDOSE COMO DESIGNANDOSE COMO LIQUIDADOR A MAXIMO nuevo/s accionista/s-, lo que se comunica para al señor Wenceslao Alfredo Chincha Lliuyac, con DNI. LIQUIDADOR A MAXIMO HERRERA MOSCOL, DE H PE E R R U R A E N R A A , IDE M N O T S IF C I O C L A , D O D C E O N D N N A I C N I º O 2 N 58 A 2 L 8 ID 81 A 8 D . los fines F d E e I J L O e O y. ARQUITECTOS EIRL Nº 10536792. N D A N C I\n\nPregunta: ¿Cuál es el nombre de la empresa disuelta?",
+    "input": "",
+    "output": "La empresa es RISTORANTE TUMBES S.A.C.."
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nJunta General de Accionistas No Presencial de la Sociedad los titulares Bellapampa, distrito de Socabaya, provincia y a 4:00 p.m. de acciones con derecho a voto que figuren inscritos en el Libro de Matrícula de Acciones de la departamento de Arequipa Sociedad y/o en el Registro Contable de CAVALI S.A. ICLV correspondiente a la Sociedad, con una anticipación no menor de diez (10) días a la fecha de celebración de la junta. WEB Institucional: www.ivparequipa.com.pe Celular Institucional: 959063716 Los poderes de representación de los accionistas deben registrarse mediante su envío al correo elec\n\nPregunta: ¿Qué empresa convoca a junta?",
+    "input": "",
+    "output": "La empresa es nan."
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de remate judicial. Identifica: ubicación, valor base y fecha.",
+    "input": "Remate y no participen como ABOGADA ARIANA LUISA VASQUEZ VALENCIA, EJECUTOR COACTIVO DE LA INTENDENCIA DE postores deberán identificarse con su documento de identidad original y entregarán copia de este. Serán TRIBUTOS INTERNOS AREQUIPA, EN LOS PROCEDIMIENTOS DE COBRANZA COACTIVA SEGUIDOS admitidos y ubicados de acuerdo con la disponibilidad de espacio y aforo permitido. La preferencia de POR LA SUPERINTENDENCIA NACIONAL DE ADUANAS Y DE ADMINISTRACIÓN TRIBUTARIA, SOBRE ingreso será para los postores conforme se acredite dicha condición. COBRO DE DEUDA TRIBUTARIA, SE LLEVARÁ A CABO EL",
+    "output": "Información extraída del aviso de remate:\n\nTipo de documento: Remate Judicial\nUbicación del inmueble: nan\nValor base: nan\nFecha de remate: 2025-06-19\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de remate judicial. Identifica: ubicación, valor base y fecha.",
+    "input": "Subasta pública se realizarán en el Parque del Encuentro, / Jr. Portocarrero s/n - Urb Santa Catalina – Distrito La Victoria. 104° inciso e) del Texto Único Ordenado del Código Tributario, aprobado por Decreto Supremo Nº 133- CRONOGRAMA DE LA",
+    "output": "Información extraída del aviso de remate:\n\nTipo de documento: Remate Judicial\nUbicación del inmueble: nan\nValor base: nan\nFecha de remate: 2025-06-06\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de convocatoria a junta de accionistas. Identifica: empresa, RUC y fecha.",
+    "input": "Junta General del 11 de abril de 2025, se 224-2025-AM-ORLIMA solicita rectificación del acta con DNI N° 06474978, solicita la Rectificación Administrativa PARTICIPACIÓN DE UTILIDADES 2024 a “R co rdó & la D M I SO E LU X C PO IÓ R N T A Y C L IO IQ N U E I S D AC S IÓ .A N . C d . e ” de su nacimiento N° 1023561263 para que aparezca d co e n s s u ig n A a c d t o a e d r e ró N ne a a c m im e i n e t n e t o e l N n ° o m 10 b 0 re 4 6 d 6 e 3 9 s 9 u 2 , M p a o d r r e h a c b o e m rs o e : Se comunica a los ex trabajadores de GRUPO consignado correctamente, el segundo apellido de su INDU",
+    "output": "Información extraída del aviso de junta:\n\nTipo de documento: Convocatoria a Junta General de Accionistas\nEmpresa: ROSA\nRUC: No especificado\nFecha de junta: 2025-04-17\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de convocatoria a junta de accionistas. Identifica: empresa, RUC y fecha.",
+    "input": "JUNTA GENERAL DE ACCIONISTAS y Fideicomisario; Toquiconu S.A.C, en calidad de CELEBRADA EL 22 DE SEPTIEMBRE DEL 2025, AVISO DE DISOLUCIÓN Y AVISO DE DISOLUCIÓN Y I S n u te p r e v r i v n i i s e o n r t ; e ; y A C nk o a rf i S d u p C e o r r v p is o i r o a n c e ió s n S F .A id .C uc , i e a n ri a c a S li . d A a . d , d e e n S D E E A L C A O E R M D P Ó R E LA S A D I \" S P O A L T U R C IM IÓ O N N IO Y S L I P Q E U R ID U A A C N IÓ O N S LIQUIDACIÓN LIQUIDACIÓN calidad de Fiduciario. SAC\", NOMBRÁNDOSE COMO LIQUIDADOR De conformidad con el artículo 412º de la Ley General de De",
+    "output": "Información extraída del aviso de junta:\n\nTipo de documento: Convocatoria a Junta General de Accionistas\nEmpresa: nan\nRUC: No especificado\nFecha de junta: 2025-09-27\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de convocatoria a junta de accionistas. Identifica: empresa, RUC y fecha.",
+    "input": "junta general de accionistas de la empresa RECTIFICACION DE PARTIDA DE BAUTISMO (1939) identificado con DNI N° 06759708, solicita la Rectificación VOLCOMCAPITAL CENTRO LIMA S.A.C. celebrada identificada con DNI 08776483, solicita la Rectificación Administrativa de su Acta de Nacimiento Nº 1010846198 a nombre el 21 de abril del año 2025 se acordó por unanimidad la DORIS ELISABETH DIAZ ZELADA, con D.N.I. Administrativa de su Acta de Nacimiento N° 1000262700, de GENÁRO RICARDO MENDÓZA MIRÁNDA por haberse reducción de capital de la suma de S/ 192,992,222.00 por haberse consignado erróneamente el n",
+    "output": "Información extraída del aviso de junta:\n\nTipo de documento: Convocatoria a Junta General de Accionistas\nEmpresa: nan\nRUC: No especificado\nFecha de junta: 2025-05-06\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso legal de disolución publicado en el Diario El Peruano. Identifica: tipo de documento, empresa, RUC y fecha.",
+    "input": "Disolución y Liquidación Ante la Oficina Registral de Ate del RENIEC con fecha EN REUNIÓN: DE PROMEDIC & ULTRAVISION RECTIFICAClÓN DE PARTIDA: EXP. 1291-2025-AM-ORMIR. Por acuerdo de acta de",
+    "output": "Información extraída del aviso de disolución:\n\nTipo de documento: Disolución y Liquidación\nEmpresa: nan\nRUC: No especificado\nFecha de publicación: 2025-07-05\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Extrae la información estructurada del siguiente aviso de remate judicial. Identifica: ubicación, valor base y fecha.",
+    "input": "remate lo HUGO GÓMEZ VILLAR – ABOGADO – NOTARIO DE HUARAZ POR MAS DE DOS AÑOS. LO QUE SE COMUNICA PARA LOS OSEJO PUCHURI, NOTARIO PÚBLICO DE ESTA CIUDAD, realizará el Sr. Martillero Público Reg. 351, WOLFGANG PAUL – FRANCISCO ARAOZ 137 INDEPENDENCIA – HUARAZ. 080- FINES DE LEY. TRUJILLO, 26 DE SETIEMBRE DE 2025. APO- CON DESPACHO NOTARIAL EN EL JR. 9 DE DICIEMBRE N° VALLE FABERIO, en la Sala de",
+    "output": "Información extraída del aviso de remate:\n\nTipo de documento: Remate Judicial\nUbicación del inmueble: nan\nValor base: nan\nFecha de remate: 2025-09-29\n\nFuente: Diario Oficial El Peruano\n"
+  },
+  {
+    "instruction": "Lee el siguiente documento legal y responde la pregunta de manera precisa y concisa.\n\nDocumento:\nremate. En el caso SESENTA MIL CON 00/100 SOLES (S/ 60,000.00) conforme al asiento 00002 de la Partida Registral de personas jurídicas que deseen participar como postores, los representantes deberán contar con poder N° 11081561 – Zona Registral N° VII Sede Huaraz Oficina Chimbote. PROPIETARIO REGISTRAL inscrito en los Registros Públicos. LA MODALIDAD DE OBLAJE: consiste en depositar antes de iniciado ACTUAL: B & M INVERSIONES INDUSTRIALES S.A.C. VALOR DE TASACIÓN: TRESCIENTOS el acto de\n\nPregunta: ¿Cuál es el valor base del remate?",
+    "input": "",
+    "output": "El valor base es nan."
+  }
+]
